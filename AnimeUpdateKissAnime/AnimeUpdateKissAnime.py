@@ -3,7 +3,7 @@ import os
 import requests
 import bs4
 import datetime
-
+import time
 Now = datetime.datetime.now()
 ################################################  ONLY KISSAIME.CO LINKS SUPPORTED  ######################################################
 #url='https://www.zoro.to/home'
@@ -31,6 +31,8 @@ f3.seek(0)
 f3.truncate(0)
 time_read=f6.readlines()
 print(time_read)
+time.sleep(1)
+os.system('cls')
 f6.truncate()
 f6.seek(0)
 dump=f7.read()
