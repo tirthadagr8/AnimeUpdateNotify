@@ -1,0 +1,1998 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+   	<title>Watch Shingeki No Kyojin The Final Season Part 2 Episode 1 on AnimeFox</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="title" content="Watch Shingeki No Kyojin The Final Season Part 2 Episode 1 on AnimeFox">
+    <meta name="description" content="Watch Shingeki No Kyojin The Final Season Part 2 Episode 1 Online, Shingeki No Kyojin The Final Season Part 2 HD with English Subtitle No Ads. Watch anime online more like Shingeki No Kyojin The Final Season Part 2">
+    <meta name="keywords" content="AnimeFox, anime, free anime, anime stream, anime hd, english sub, kissanime, gogoanime, animeultima, 9anime, 123animes, animefreak, vidstreaming, gogo-stream">
+    <meta name="charset" content="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+    <meta name="robots" content="index, follow">
+    <meta name="googlebot" content="index, follow">
+    <meta name="revisit-after" content="1 days">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="Content-Language" content="en">
+    <meta property="og:title" content="Watch Shingeki No Kyojin The Final Season Part 2 Episode 1 on AnimeFox">
+    <meta property="og:description" content="Watch Shingeki No Kyojin The Final Season Part 2 Episode 1 Online, Shingeki No Kyojin The Final Season Part 2 HD with English Subtitle No Ads. Watch anime online more like Shingeki No Kyojin The Final Season Part 2">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="AnimeFox">
+    <meta property="og:url" content="/watch/shingeki-no-kyojin-the-final-season-part-2-episode-1">
+    <meta itemprop="image" content="http://animefox.sbs/assets/images/logo.png">
+	    <meta property="og:image" content="http://animefox.sbs/assets/images/logo.png">
+	    <meta property="og:image:width" content="650">
+    <meta property="og:image:height" content="350">
+    <meta property="twitter:title" content="Watch Shingeki No Kyojin The Final Season Part 2 Episode 1 on AnimeFox">
+    <meta property="twitter:description" content="Watch Shingeki No Kyojin The Final Season Part 2 Episode 1 Online, Shingeki No Kyojin The Final Season Part 2 HD with English Subtitle No Ads. Watch anime online more like Shingeki No Kyojin The Final Season Part 2">
+    <meta property="twitter:url" content="/watch/shingeki-no-kyojin-the-final-season-part-2-episode-1">
+    <meta property="twitter:card" content="summary">
+    <meta name="apple-mobile-web-app-status-bar" content="#202125">
+    <meta name="theme-color" content="#202125">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" type="text/css">
+    <link rel="canonical" href="https://animefox.sbs">
+    <link rel="alternate" hreflang="en" href="https://animefox.sbs">
+    <link rel="shortcut icon" href="https://animefox.sbs/favicon.ico" type="image/x-icon">
+    <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/">
+	    <link rel="stylesheet" href="/assets/css/style.css?v=0.0000001">
+	    <link rel="stylesheet" href="/assets/css/m.min.css?v=0.0000001">
+
+<script type="text/javascript">
+var movie = {
+	id: "shingeki-no-kyojin-the-final-season-part-2"
+}
+var episode_play = {
+	"id": "1"
+}
+        var site_config = {
+        		'domain': 'animefox.io',
+        		'disqus': 'animefox-io.disqus.com',
+        	}
+    </script>
+	 <script type="application/ld+json">
+{
+	"@context":"https:\/\/schema.org",
+	"@graph":[{
+		"@context":"https:\/\/schema.org",
+		"@type":"TVEpisode",
+		"url":"http://animefox.sbs/watch/shingeki-no-kyojin-the-final-season-part-2-episode-1",
+		"name":"Shingeki No Kyojin The Final Season Part 2 Episode 1",
+		"episodeNumber":"1",
+		"position":"1",
+		"datePublished": "2022-03-23",
+		"thumbnailUrl":"http://animefox.sbs/assets/images/banner.webp",
+		"director": "N/A",		"potentialAction":{
+			"@type":"WatchAction",
+			"target":"http://animefox.sbs/watch/shingeki-no-kyojin-the-final-season-part-2-episode-1"
+		},
+		"video":{
+			"@type":"VideoObject",
+			"url":"http://animefox.sbs/watch/shingeki-no-kyojin-the-final-season-part-2-episode-1",
+			"name":"Shingeki No Kyojin The Final Season Part 2 Episode 1",
+			"uploadDate":"2021-03-23",
+			"thumbnailUrl":"http://animefox.sbs/assets/images/banner.webp",
+			"description":"",
+			"videoQuality":"HD",
+			"embedUrl": "http://animefox.sbs",
+			"potentialAction":{
+				"@type":"WatchAction",
+				"target":"http://animefox.sbs/watch/shingeki-no-kyojin-the-final-season-part-2-episode-1"
+			}
+		},
+		"inLanguage":"ja-JP",
+		"subtitleLanguage":"en-US"
+	}]
+}
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+                    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-168741650-7"></script>
+                    <script>
+                      window.dataLayer = window.dataLayer || [];
+                      function gtag(){dataLayer.push(arguments);}
+                      gtag("js", new Date());
+                    
+                      gtag("config", "UA-168741650-7");
+                    </script></head>
+
+<body data-page="movie_watch">
+    <div id="sidebar_menu_bg"></div>
+    <div id="wrapper" data-page="movie_watch">
+	<div id="sidebar_menu">
+        <button class="btn btn-radius btn-sm btn-secondary toggle-sidebar"><i class="fas fa-angle-left mr-2"></i>Close menu</button>
+        <div class="sb-setting">
+            <div class="header-setting">
+                <div class="hs-toggles">
+                    <a href="/random" rel="nofollow" class="hst-item" data-toggle="tooltip" data-original-title="Select Random Anime">
+                        <div class="hst-icon"><i class="fas fa-random"></i></div>
+                        <div class="name"><span>Random</span></div>
+                    </a>
+                        <a href="/anime" class="hst-item" data-toggle="tooltip" data-original-title="Select Anime List">
+                            <div class="hst-icon"><i class="fas fa-list"></i></div>
+                            <div class="name"><span>Anime</span></div>
+                        </a>
+                        <a href="/popular" class="hst-item" data-toggle="tooltip" data-original-title="Popular Anime List">
+                            <div class="hst-icon"><i class="fas fa-star"></i></div>
+                            <div class="name"><span>Popular</span></div>
+                        </a>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </div>
+        <ul class="nav sidebar_menu-list">
+            <li class="nav-item active"><a class="nav-link" href="../home" title="Home"><i class="fas fa-home"></i> Home</a></li>
+			 <li class="nav-item">
+			 <div class="nav-link" title="Types"><strong><i class="fas fa-video"></i> Types</strong></div>
+                <div class="sidebar_menu-sub show" id="sidebar_subs_types">
+                    <ul class="nav sub-menu color-list">
+            <li class="nav-item"><a class="nav-link" href="../type?sort_type=Movie" title="Movies">Movies</a></li>
+            <li class="nav-item"><a class="nav-link" href="../type?sort_type=TV+Series" title="TV Series">TV Series</a></li>
+            <li class="nav-item"><a class="nav-link" href="../type?sort_type=OVA" title="OVAs">OVAs</a></li>
+            <li class="nav-item"><a class="nav-link" href="../type?sort_type=ONA" title="ONAs">ONAs</a></li>
+            <li class="nav-item"><a class="nav-link" href="../type?sort_type=Special" title="Specials">Specials</a></li>
+					</ul>
+					</div>
+					</li>
+					 <li class="nav-item">
+					  <div class="nav-link" title="Status"><strong><i class="fas fa-check"></i> Status</strong></div>
+                <div class="sidebar_menu-sub show" id="sidebar_subs_types">
+                    <ul class="nav sub-menu color-list">
+            <li class="nav-item"><a class="nav-link" href="../status?sort_status=Completed" title="Completed">Completed</a></li>
+            <li class="nav-item"><a class="nav-link" href="../status?sort_status=Ongoing" title="Ongoing">Ongoing</a></li>
+					</ul>
+					</div>
+					</li>
+					<li class="nav-item">
+					  <div class="nav-link" title="Latest"><strong><i class="fas fa-rss"></i> Latest</strong></div>
+                <div class="sidebar_menu-sub show" id="sidebar_subs_types">
+                    <ul class="nav sub-menu color-list">
+            <li class="nav-item"><a class="nav-link" href="../latest-added" title="Sub & Dub">All</a></li>
+            <li class="nav-item"><a class="nav-link" href="../latest-dubbed" title="Dubbed">Dubbed</a></li>
+					</ul>
+					</div>
+					</li>
+             <li class="nav-item">
+					 <div class="nav-link" title="Season"><strong><i class="fas fa-leaf"></i> Season</strong></div>
+                <div class="sidebar_menu-sub show" id="sidebar_subs_top">
+                    <ul class="nav sub-menu color-list">
+            <li class="nav-item"><a class="nav-link" href="../season?sort_type=Fall+2021+Anime" title="Fall">Fall</a></li>
+            <li class="nav-item"><a class="nav-link" href="../season?sort_type=Summer+2021+Anime" title="Summer">Summer</a></li>
+            <li class="nav-item"><a class="nav-link" href="../season?sort_type=Spring+2021+Anime" title="Spring">Spring</a></li>
+            <li class="nav-item"><a class="nav-link" href="../season?sort_type=Winter+2022+Anime" title="Winter">Winter</a></li>
+					</ul>
+					</div>
+					</li>
+             <li class="nav-item">
+					 <div class="nav-link" title="Popular"><strong><i class="fa-solid fa-star"></i> Popular</strong></div>
+                <div class="sidebar_menu-sub show" id="sidebar_subs_top">
+                    <ul class="nav sub-menu color-list">
+            <li class="nav-item"><a class="nav-link" href="../popular" title="All Time">All Time</a></li>
+            <li class="nav-item"><a class="nav-link" href="../popular-season" title="Season">Season</a></li>
+            <li class="nav-item"><a class="nav-link" href="../popular-type" title="Type">Type</a></li>
+            <li class="nav-item"><a class="nav-link" href="../popular-year" title="Year">Year</a></li>
+					</ul>
+					</div>
+					</li>
+            <li class="nav-item">
+                <div class="nav-link" title="Genre"><strong><i class="fa fa-angle-down"></i> Genre</strong></div>
+                <div class="sidebar_menu-sub show" id="sidebar_subs_genre">
+                    <ul class="nav color-list sub-menu">
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Action" title="Action">Action</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Adventure" title="Adventure">Adventure</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Cars" title="Cars">Cars</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Comedy" title="Comedy">Comedy</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Dementia" title="Dementia">Dementia</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Demons" title="Demons">Demons</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Drama" title="Drama">Drama</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Ecchi" title="Ecchi">Ecchi</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Fantasy" title="Fantasy">Fantasy</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Game" title="Game">Game</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Harem" title="Harem">Harem</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Historical" title="Historical">Historical</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Horror" title="Horror">Horror</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Josei" title="Josei">Josei</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Kids" title="Kids">Kids</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Magic" title="Magic">Magic</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Martial Arts" title="Martial Arts">Martial Arts</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Mecha" title="Mecha">Mecha</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Military" title="Military">Military</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Music" title="Music">Music</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Mystery" title="Mystery">Mystery</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Parody" title="Parody">Parody</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Police" title="Police">Police</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Psychological" title="Psychological">Psychological</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Romance" title="Romance">Romance</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Samurai" title="Samurai">Samurai</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=School" title="School">School</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Sci-Fi" title="Sci Fi">Sci Fi</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Seinen" title="Seinen">Seinen</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Shoujo" title="Shoujo">Shoujo</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Shoujo Ai" title="Shoujo Ai">Shoujo Ai</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Shounen" title="Shounen">Shounen</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Shounen Ai" title="Shounen Ai">Shounen Ai</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Slice of Life" title="Slice of Life">Slice of Life</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Space" title="Space">Space</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Sports" title="Sports">Sports</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Super Power" title="Super Power">Super Power</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Supernatural" title="Supernatural">Supernatural</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Thriller" title="Thriller">Thriller</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Vampire" title="Vampire">Vampire</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Yaoi" title="Yaoi">Yaoi</a> </li>
+<li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Yuri" title="Yuri">Yuri</a> </li>
+                        <li class="nav-item nav-more">
+	<a class="nav-link"><i class="fas fa-plus mr-2"></i>More</a>
+	</li>
+					</ul>
+					</div>
+					</li>
+        </ul>
+        <div class="clearfix"></div>
+    </div>  <div id="header" class="header-home ">
+            <div class="container">
+                <div id="mobile_menu"><i class="fa fa-bars"></i></div>
+				                <a href="/home" id="logo" title="AnimeFox">
+                    <img src="/assets/images/logo.png" width="100%" height="auto" alt="AnimeFox">
+                    <div class="clearfix"></div>
+                </a>
+				                <div id="search">
+                    <div class="search-content">
+                        <form action="/search" autocomplete="off">
+                                                        <input type="text" class="form-control search-input" name="keyword" placeholder="Search anime...">
+                            <button style="right:0;outline:0;" type="submit" class="search-icon"><i class="fas fa-search"></i></button>
+                        </form>
+                        
+                    </div>
+                </div>
+<div class="header-group">
+<div class="zoro-group">
+<div class="zrg-title"><span class="top">Join now</span><span class="bottom">AnimeFox Group</span></div>
+<div class="zrg-list">
+<div class="item"><a href="https://facebook.com/CCAnimeTV" target="_blank" class="zr-social-button dc-btn"><i class="fab fa-facebook"></i></a></div>
+<div class="item"><a href="https://discord.gg/4SfZsXpTxZ" target="_blank" class="zr-social-button dc-btn"><i class="fab fa-discord"></i></a></div>
+<div class="item"><a href="https://ko-fi.com/AnimeFox" target="_blank" class="zr-social-button tl-btn"><i class="fab fa-gratipay"></i></a></div>
+<div class="item"><a href="https://reddit.com/r/AnimeFox" target="_blank" class="zr-social-button rd-btn"><i class="fab fa-reddit-alien"></i></a></div>
+</div><div class="clearfix"></div>
+</div>
+</div>
+				                <div class="header-setting">
+                    
+                    <div class="hs-toggles">
+                        <a href="/random" class="hst-item" data-toggle="tooltip" data-original-title="Select Random Anime">
+                            <div class="hst-icon"><i class="fas fa-random"></i></div>
+                            <div class="name"><span>Random</span></div>
+                        </a>
+                        <a href="/anime" class="hst-item" data-toggle="tooltip" data-original-title="Select Anime List">
+                            <div class="hst-icon"><i class="fas fa-list"></i></div>
+                            <div class="name"><span>Anime</span></div>
+                        </a>
+						<a href="/popular" class="hst-item" data-toggle="tooltip" data-original-title="Popular Anime List">
+                            <div class="hst-icon"><i class="fas fa-star"></i></div>
+                            <div class="name"><span>Popular</span></div>
+                        </a>
+						                         <div class="hst-item twitter_bt" data-toggle="tooltip" title="" data-original-title="Follow us on Twitter">
+                          <a href="https://twitter.com/AnimeFoxTV" target="_blank">
+						  <i class="fab fa-twitter"></i>
+						  <div class="name" id="tora_d"><span>Follow</span></div>
+						  </a>
+                        </div>
+						                        <div class="clearfix"></div>
+                    </div>
+                </div>
+                <div id="pick_menu">
+                    <div class="pick_menu-ul">
+                        <ul class="ulclear">
+                            <li class="pmu-item pmu-item-home">
+                                <a class="pmu-item-icon" href="/home" title="Home">
+                                    <img src="/assets/images/pick-home.svg" data-toggle="tooltip" data-placement="right" title="" data-original-title="Home">
+                                </a>
+                            </li>
+                            <li class="pmu-item pmu-item-movies">
+                                <a class="pmu-item-icon" href="/movies" title="Movies">
+                                    <img src="/assets/images/pick-movies.svg" data-toggle="tooltip" data-placement="right" title="" data-original-title="Movies">
+                                </a>
+                            </li>
+                            <li class="pmu-item pmu-item-show">
+                                <a class="pmu-item-icon" href="/tv-series" title="TV Series">
+                                    <img src="/assets/images/pick-show.svg" data-toggle="tooltip" data-placement="right" title="" data-original-title="TV Series">
+                                </a>
+                            </li>
+                            <li class="pmu-item pmu-item-popular">
+                                <a class="pmu-item-icon" href="/most-popular-anime" title="Most Popular">
+                                    <img src="/assets/images/pick-popular.svg" data-toggle="tooltip" data-placement="right" title="" data-original-title="Most Popular">
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div id="header_right">
+					<!--<div class="header_right-user">
+						<a data-toggle="modal" data-target="#modallogin" class="btn-user btn btn-sm btn-primary btn-login">Login</a>
+					</div>-->
+				</div>
+                <div id="mobile_search" class=""><i class="fa fa-search"></i></div>
+                <div class="clearfix"></div>
+            </div>
+        </div>                                  <div class="clearfix"></div>
+        <div id="main-wrapper" date-page="movie_watch" data-id="">
+		<div id="ani_detail">
+    <div class="ani_detail-stage">
+        <div class="container">            <div class="anis-cover-wrap">          
+                <div class="anis-cover" style="background-image: url('https://animecdn.sbs/cover/shingeki-no-kyojin-the-final-season-part-2.png')"></div>
+ </div>
+            <div class="anis-watch-wrap">
+              <div class="prebreadcrumb">
+<nav aria-label="breadcrumb">
+<ol class="breadcrumb">
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" class="breadcrumb-item">
+<a itemprop="item" href="/home"><span itemprop="name">Home</span></a>
+<meta itemprop="position" content="1">
+</li>
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" class="breadcrumb-item">
+<a itemprop="item" href="/anime"><span itemprop="name">Anime</span></a>
+<meta itemprop="position" content="2">
+</li>
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" class="breadcrumb-item dynamic-name" data-jname="Shingeki no Kyojin: The Final Season Part 2" aria-current="page" style="opacity: 1;">Shingeki no Kyojin: The Final Season Part 2</li>
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" class="breadcrumb-item" aria-current="page">
+<a itemprop="item" href="/watch/shingeki-no-kyojin-the-final-season-part-2-episode-1"><span itemprop="name">Episode 1</span></a>
+<meta itemprop="position" content="4">
+</li>
+</ol>
+</nav>
+</div>                          <div class="anis-watch anis-watch-tv">
+					                    <div class="watch-player">
+                        <div class="player-frame">
+                            <div class="loading-relative loading-box" id="embed-loading">
+                                <div class="loading">
+                                    <div class="span1"></div>
+                                    <div class="span2"></div>
+                                    <div class="span3"></div>
+                                </div>
+                            </div>
+							                            <iframe id="iframe-to-load" src="https://mplayer.sbs/player.php?id=MTc3ODc3" frameborder="0" scrolling="no" allow="accelerometer;autoplay;encrypted-media;gyroscope;picture-in-picture" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+							                        </div>
+						
+                        <div class="player-controls">
+                          <div class="pc-item pc-download">
+                                    <a class="btn btn-sm pc-download" href="https://gogoplay4.com/download?id=MTc3ODc3"><i class="fas fa-download mr-2"></i>Download</a>
+                                </div>
+                            <div class="pc-item pc-resize">
+                                <a href="javascript:;" id="media-resize" class="btn btn-sm"><i class="fas fa-expand mr-1"></i>Expand</a>
+                            </div>
+                            <div class="pc-item pc-toggle pc-light">
+                                <div id="turn-off-light" class="toggle-basic">
+                                    <span class="tb-name"><i class="fas fa-lightbulb mr-2"></i>Light</span>
+                                    <span class="tb-result"></span>
+                                </div>
+                            </div>
+							                            <div class="pc-right">
+												<a href="shingeki-no-kyojin-the-final-season-part-2-episode-2"><button class="btn btn-secondary" type="button" style="float:right;height: 32px;font-size: 14px;font-weight: normal;display: block;">Next <i class="fa fa-step-forward"></i></button></a>                                <div class="pc-item pc-fav" id="watch-list-content"></div>
+                            </div>
+                            <div class="clearfix"></div>
+                        </div>
+						
+                    </div>
+															                    <div class="player-servers">
+                        <div id="servers-content">
+                            <div class="ps_-status">
+                                <div class="content">
+                                    <div class="server-notice"><strong>Currently watching <b>Episode 1</b></strong> Switch to alternate servers in case of error.</div>
+                                </div>
+                            </div>
+                            <div class="ps_-block ps_-block-sub servers-mixed">
+							<div class="ps__-list" id="dt_sv">
+					<div class="ps__-title"><i class="fas fa-server mr-2"></i>Servers:</div>
+					<div class="dropup" id="hostitem">
+					<select class="btn btn-secondary btn-block dropdown-toggle" id="select-iframe-to-display">
+   					<option class="btn-video dropdown-item" value="https://mplayer.sbs/player.php?id=MTc3ODc3-#-default">mPlayer (Default)</option>
+                    <option class="btn-video dropdown-item" value="gogoplay4.com/streaming.php?id=MTc3ODc3&title=Shingeki+no+Kyojin%3A+The+Final+Season+Part+2+Episode+1-#-streamani">vStream (Contains-Ads)</option>
+					</select>
+					</div></div>                                          
+                                <div class="clearfix"></div>
+                                <div id="source-guide"></div>
+                            </div>
+                        </div>
+                    </div>
+															
+							                    <div id="episodes-content"><div class="seasons-block seasons-block-max">
+    <div id="detail-ss-list" class="detail-seasons">
+        <div class="detail-infor-content">
+            <div style="min-height:43px;" class="ss-choice">
+                <div class="ssc-list">
+                    <div id="ssc-list" class="ssc-button">
+                        <div class="ssc-label">List of episodes:</div>
+                    </div>
+                </div>
+                <div class="ssc-quick">
+                    <div class="sscq-icon"><i class="fas fa-search"></i></div>
+                    <input id="search-ep" class="form-control" type="text" placeholder="Search EP #" autocomplete="off">
+                </div>
+                <div class="clearfix"></div>
+            </div>
+ <div id="episodes-page-1" class="ss-list ss-list-min" data-page="1" style="display:block;">
+   <a title="Episode 12" class="ssl-item ep-item" data-number="12" id="12" data-id="12" href="/watch/shingeki-no-kyojin-the-final-season-part-2-episode-12">
+                    <div class="ssli-order" title="">12</div>
+                    <div class="ssli-detail">
+                        <div class="ep-name dynamic-name" data-jname="" title=""></div>
+                    </div>
+                    <div class="ssli-btn">
+                        <div class="btn btn-circle"><i class="fas fa-play"></i></div>
+                    </div>
+                    <div class="clearfix"></div>
+                </a>
+   <a title="Episode 11" class="ssl-item ep-item" data-number="11" id="11" data-id="11" href="/watch/shingeki-no-kyojin-the-final-season-part-2-episode-11">
+                    <div class="ssli-order" title="">11</div>
+                    <div class="ssli-detail">
+                        <div class="ep-name dynamic-name" data-jname="" title=""></div>
+                    </div>
+                    <div class="ssli-btn">
+                        <div class="btn btn-circle"><i class="fas fa-play"></i></div>
+                    </div>
+                    <div class="clearfix"></div>
+                </a>
+   <a title="Episode 10" class="ssl-item ep-item" data-number="10" id="10" data-id="10" href="/watch/shingeki-no-kyojin-the-final-season-part-2-episode-10">
+                    <div class="ssli-order" title="">10</div>
+                    <div class="ssli-detail">
+                        <div class="ep-name dynamic-name" data-jname="" title=""></div>
+                    </div>
+                    <div class="ssli-btn">
+                        <div class="btn btn-circle"><i class="fas fa-play"></i></div>
+                    </div>
+                    <div class="clearfix"></div>
+                </a>
+   <a title="Episode 9" class="ssl-item ep-item" data-number="9" id="9" data-id="9" href="/watch/shingeki-no-kyojin-the-final-season-part-2-episode-9">
+                    <div class="ssli-order" title="">9</div>
+                    <div class="ssli-detail">
+                        <div class="ep-name dynamic-name" data-jname="" title=""></div>
+                    </div>
+                    <div class="ssli-btn">
+                        <div class="btn btn-circle"><i class="fas fa-play"></i></div>
+                    </div>
+                    <div class="clearfix"></div>
+                </a>
+   <a title="Episode 8" class="ssl-item ep-item" data-number="8" id="8" data-id="8" href="/watch/shingeki-no-kyojin-the-final-season-part-2-episode-8">
+                    <div class="ssli-order" title="">8</div>
+                    <div class="ssli-detail">
+                        <div class="ep-name dynamic-name" data-jname="" title=""></div>
+                    </div>
+                    <div class="ssli-btn">
+                        <div class="btn btn-circle"><i class="fas fa-play"></i></div>
+                    </div>
+                    <div class="clearfix"></div>
+                </a>
+   <a title="Episode 7" class="ssl-item ep-item" data-number="7" id="7" data-id="7" href="/watch/shingeki-no-kyojin-the-final-season-part-2-episode-7">
+                    <div class="ssli-order" title="">7</div>
+                    <div class="ssli-detail">
+                        <div class="ep-name dynamic-name" data-jname="" title=""></div>
+                    </div>
+                    <div class="ssli-btn">
+                        <div class="btn btn-circle"><i class="fas fa-play"></i></div>
+                    </div>
+                    <div class="clearfix"></div>
+                </a>
+   <a title="Episode 6" class="ssl-item ep-item" data-number="6" id="6" data-id="6" href="/watch/shingeki-no-kyojin-the-final-season-part-2-episode-6">
+                    <div class="ssli-order" title="">6</div>
+                    <div class="ssli-detail">
+                        <div class="ep-name dynamic-name" data-jname="" title=""></div>
+                    </div>
+                    <div class="ssli-btn">
+                        <div class="btn btn-circle"><i class="fas fa-play"></i></div>
+                    </div>
+                    <div class="clearfix"></div>
+                </a>
+   <a title="Episode 5" class="ssl-item ep-item" data-number="5" id="5" data-id="5" href="/watch/shingeki-no-kyojin-the-final-season-part-2-episode-5">
+                    <div class="ssli-order" title="">5</div>
+                    <div class="ssli-detail">
+                        <div class="ep-name dynamic-name" data-jname="" title=""></div>
+                    </div>
+                    <div class="ssli-btn">
+                        <div class="btn btn-circle"><i class="fas fa-play"></i></div>
+                    </div>
+                    <div class="clearfix"></div>
+                </a>
+   <a title="Episode 4" class="ssl-item ep-item" data-number="4" id="4" data-id="4" href="/watch/shingeki-no-kyojin-the-final-season-part-2-episode-4">
+                    <div class="ssli-order" title="">4</div>
+                    <div class="ssli-detail">
+                        <div class="ep-name dynamic-name" data-jname="" title=""></div>
+                    </div>
+                    <div class="ssli-btn">
+                        <div class="btn btn-circle"><i class="fas fa-play"></i></div>
+                    </div>
+                    <div class="clearfix"></div>
+                </a>
+   <a title="Episode 3" class="ssl-item ep-item" data-number="3" id="3" data-id="3" href="/watch/shingeki-no-kyojin-the-final-season-part-2-episode-3">
+                    <div class="ssli-order" title="">3</div>
+                    <div class="ssli-detail">
+                        <div class="ep-name dynamic-name" data-jname="" title=""></div>
+                    </div>
+                    <div class="ssli-btn">
+                        <div class="btn btn-circle"><i class="fas fa-play"></i></div>
+                    </div>
+                    <div class="clearfix"></div>
+                </a>
+   <a title="Episode 2" class="ssl-item ep-item" data-number="2" id="2" data-id="2" href="/watch/shingeki-no-kyojin-the-final-season-part-2-episode-2">
+                    <div class="ssli-order" title="">2</div>
+                    <div class="ssli-detail">
+                        <div class="ep-name dynamic-name" data-jname="" title=""></div>
+                    </div>
+                    <div class="ssli-btn">
+                        <div class="btn btn-circle"><i class="fas fa-play"></i></div>
+                    </div>
+                    <div class="clearfix"></div>
+                </a>
+   <a title="Episode 1" class="ssl-item ep-item" data-number="1" id="1" data-id="1" href="/watch/shingeki-no-kyojin-the-final-season-part-2-episode-1">
+                    <div class="ssli-order" title="">1</div>
+                    <div class="ssli-detail">
+                        <div class="ep-name dynamic-name" data-jname="" title=""></div>
+                    </div>
+                    <div class="ssli-btn">
+                        <div class="btn btn-circle"><i class="fas fa-play"></i></div>
+                    </div>
+                    <div class="clearfix"></div>
+                </a>
+</div> 
+       </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+<script>
+$(document).on("click", ".ep-page-item", function () {
+	$('.ep-page-item').removeClass('active');
+	$('.ep-page-item .ic-active').hide();
+	$(this).addClass('active');
+	$(this).find('.ic-active').show();
+	$('.ss-list-min').hide();
+	$('#episodes-page-' + $(this).data('page')).show();
+	$('#current-page').text($(this).text().trim());
+});
+</script>
+</div>
+											
+                </div>
+                          <div class="anis-watch-detail">
+                    <div class="anis-content">
+                        <div class="anisc-poster">
+                            <div class="film-poster">
+                                <img src="https://animecdn.sbs/cover/shingeki-no-kyojin-the-final-season-part-2.png" data-src="https://animecdn.sbs/cover/shingeki-no-kyojin-the-final-season-part-2.png" class="film-poster-img ls-is-cached lazyloaded" alt="Shingeki no Kyojin: The Final Season Part 2">
+                            </div>
+                        </div>
+                        <div class="anisc-detail">
+                            <h2 class="film-name">
+							<a href="/anime/shingeki-no-kyojin-the-final-season-part-2" class="text-white dynamic-name" title="Shingeki no Kyojin: The Final Season Part 2" data-jname="Shingeki no Kyojin: The Final Season Part 2" style="opacity: 1;">Shingeki no Kyojin: The Final Season Part 2</a>
+							</h2>
+                           <div class="film-stats">
+							<div class="tac tick-item tick-quality">HD</div>
+							<div class="tac tick-item tick-dub">SUB</div>
+							<span class="dot"></span>
+							<span class="item">Winter 2022 </span>
+							<span class="dot"></span>
+							<span class="item">Completed</span>
+														<span class="dot"></span> 
+							<span class="item">2022</span>
+														<div class="clearfix"></div>
+						   </div>
+                            <div class="film-description m-hide">
+                                <div class="text">Second part of Shingeki no Kyojin: The Final Season.</div>
+                            </div>
+                            <div class="film-text m-hide mb-3">
+                                AnimeFox is a site to watch online anime like <strong>Shingeki no Kyojin: The Final Season Part 2</strong> SUB online GoGoAnime, or you can even watch <strong>Shingeki no Kyojin: The Final Season Part 2</strong> in HD quality just like KissAnime and 9Anime.
+                            </div>
+                            <div class="block"><a href="/anime/shingeki-no-kyojin-the-final-season-part-2" class="btn btn-xs btn-light"><i class="fas fa-book-open mr-2"></i> View detail</a></div>
+                            <div class="dt-rate">
+                                <div id="vote-info"><div class="block-rating">
+	<div class="rating-result">
+		<div class="rr-mark float-left">
+			<strong><i class="fas fa-star text-warning mr-2"></i>0 </strong>
+			<small>(0 voted)</small>
+		</div>
+		<div class="rr-title float-right">Vote now</div>
+		<div class="clearfix"></div>
+	</div>
+	<div class="description">Voting might not be working!</div>
+	<div class="button-rate">
+		<button type="button" class="btn btn-emo rate-bad btn-vote" style="width:50%" data-mark="dislike" data-id="3ar7">😩<span class="ml-2">Boring</span></button>
+		<button type="button" class="btn btn-emo rate-good btn-vote" style="width:50%" data-mark="like" data-id="3ar7">🤩<span class="ml-2">Amazing</span></button>
+		<div class="clearfix"></div>
+	</div>
+	<div class="clearfix"></div>
+</div></div>
+                                <div class="loading-relative" id="vote-loading" style="display: none;">
+                                    <div class="loading">
+                                        <div class="span1"></div>
+                                        <div class="span2"></div>
+                                        <div class="span3"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+				
+            </div>
+        </div>
+    </div>
+</div>
+            <div class="container">
+				<div id="main-content">
+<section class="block_area block_area-comment">
+<div class="block_area-header block_area-header-tabs">
+<div class="float-left bah-heading mr-4">
+<h2 class="cat-heading">Comments</h2>
+</div>
+<div class="float-left bah-setting">
+<a href="javascript:;" data-type="anime" class="btn btn-sm btn-radius btn-tab btn-comment-tab mr-1">Anime</a>
+<a href="javascript:;" data-type="episode" class="btn btn-sm btn-radius btn-tab btn-comment-tab active mr-1">Episode <span id="cm-episode-number"></span></a>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="tab-content">
+<div class="show-comments">
+<div id="disqus_thread"></div>
+<div class="text-center">
+<button class="btn btn-sm btn-secondary sc-button btn-load-comment"><i class="fas fa-comment mr-2"></i>Click to load comments</button>
+</div>
+</div>
+</div>
+</section><section class="block_area block_area_category">
+                        <div class="block_area-header">
+                            <div class="float-left bah-heading mr-4">
+                                <h2 class="cat-heading">Recommended For You</h2> 
+								</div>
+                            <div class="clearfix"></div>
+                        </div>
+						                        <div class="tab-content">
+                            <div class="block_area-content block_area-list film_list film_list-grid film_list-wfeature">
+                                <div class="film_list-wrap">
+																                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-sub">SUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 6</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/cover/milpom.png" src="https://animecdn.sbs/cover/milpom.png" alt="MILPOM★">
+																					   <a class="film-poster-ahref" href="/anime/milpom" title="MILPOM★"><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/milpom" title="MILPOM★" data-jname="MILPOM★" style="opacity: 1;">MILPOM★</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">2015</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-sub">SUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 25</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/images/anime/K/Kuroko-no-Basuke.jpg" src="https://animecdn.sbs/images/anime/K/Kuroko-no-Basuke.jpg" alt="Kuroko no Baske">
+																					   <a class="film-poster-ahref" href="/anime/kuroko-no-baske" title="Kuroko no Baske"><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/kuroko-no-baske" title="Kuroko no Baske" data-jname="Kuroko no Baske" style="opacity: 1;">Kuroko no Baske</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">2012</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-dub">DUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 32</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/cover/ben-10-ultimate-alien-season-02-dub.png" src="https://animecdn.sbs/cover/ben-10-ultimate-alien-season-02-dub.png" alt="Ben 10: Ultimate Alien Season 02 (Dub)">
+																					   <a class="film-poster-ahref" href="/anime/ben-10-ultimate-alien-season-02-dub" title="Ben 10: Ultimate Alien Season 02 (Dub)"><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/ben-10-ultimate-alien-season-02-dub" title="Ben 10: Ultimate Alien Season 02 (Dub)" data-jname="Ben 10: Ultimate Alien Season 02 (Dub)" style="opacity: 1;">Ben 10: Ultimate Alien Season 02 (Dub)</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">2010</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-sub">SUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 26</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/images/anime/H/hajime-no-ippo.jpg" src="https://animecdn.sbs/images/anime/H/hajime-no-ippo.jpg" alt="Hajime no Ippo: A New Challenger">
+																					   <a class="film-poster-ahref" href="/anime/hajime-no-ippo-a-new-challenger" title="Hajime no Ippo: A New Challenger"><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/hajime-no-ippo-a-new-challenger" title="Hajime no Ippo: A New Challenger" data-jname="Hajime no Ippo: A New Challenger" style="opacity: 1;">Hajime no Ippo: A New Challenger</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">2009</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-sub">SUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 6</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/images/spring/Kenzen%20Robo%20Daimidaler.jpg" src="https://animecdn.sbs/images/spring/Kenzen%20Robo%20Daimidaler.jpg" alt="Kenzen Robo Daimidaler Specials">
+																					   <a class="film-poster-ahref" href="/anime/kenzen-robo-daimidaler-specials" title="Kenzen Robo Daimidaler Specials"><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/kenzen-robo-daimidaler-specials" title="Kenzen Robo Daimidaler Specials" data-jname="Kenzen Robo Daimidaler Specials" style="opacity: 1;">Kenzen Robo Daimidaler Specials</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">2014</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-sub">SUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 13</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/images/anime/B/buzzer-beater-2007.jpg" src="https://animecdn.sbs/images/anime/B/buzzer-beater-2007.jpg" alt="Buzzer Beater (2007)">
+																					   <a class="film-poster-ahref" href="/anime/buzzer-beater-2007" title="Buzzer Beater (2007)"><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/buzzer-beater-2007" title="Buzzer Beater (2007)" data-jname="Buzzer Beater (2007)" style="opacity: 1;">Buzzer Beater (2007)</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">2007</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-dub">DUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 52</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/cover/bamboo-bears-dub.png" src="https://animecdn.sbs/cover/bamboo-bears-dub.png" alt="Bamboo Bears (Dub)">
+																					   <a class="film-poster-ahref" href="/anime/bamboo-bears-dub" title="Bamboo Bears (Dub)"><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/bamboo-bears-dub" title="Bamboo Bears (Dub)" data-jname="Bamboo Bears (Dub)" style="opacity: 1;">Bamboo Bears (Dub)</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">1997</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-sub">SUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 26</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/cover/the-world-of-golden-eggs.png" src="https://animecdn.sbs/cover/the-world-of-golden-eggs.png" alt="The World of Golden Eggs">
+																					   <a class="film-poster-ahref" href="/anime/the-world-of-golden-eggs" title="The World of Golden Eggs"><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/the-world-of-golden-eggs" title="The World of Golden Eggs" data-jname="The World of Golden Eggs" style="opacity: 1;">The World of Golden Eggs</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">2006</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-sub">SUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 1</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/cover/drifters-ova.jpg" src="https://animecdn.sbs/cover/drifters-ova.jpg" alt="Drifters OVA">
+																					   <a class="film-poster-ahref" href="/anime/drifters-ova" title="Drifters OVA"><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/drifters-ova" title="Drifters OVA" data-jname="Drifters OVA" style="opacity: 1;">Drifters OVA</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">2016</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-dub">DUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 12</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/cover/bem-dub.png" src="https://animecdn.sbs/cover/bem-dub.png" alt="Bem (Dub)">
+																					   <a class="film-poster-ahref" href="/anime/bem-dub" title="Bem (Dub)"><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/bem-dub" title="Bem (Dub)" data-jname="Bem (Dub)" style="opacity: 1;">Bem (Dub)</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">2019</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-sub">SUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 49</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/images/anime/A/aura-battler-dunbine.jpg" src="https://animecdn.sbs/images/anime/A/aura-battler-dunbine.jpg" alt="Aura Battler Dunbine">
+																					   <a class="film-poster-ahref" href="/anime/aura-battler-dunbine" title="Aura Battler Dunbine"><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/aura-battler-dunbine" title="Aura Battler Dunbine" data-jname="Aura Battler Dunbine" style="opacity: 1;">Aura Battler Dunbine</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">1983</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-sub">SUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 13</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/cover/rezero-kara-hajimeru-isekai-seikatsu-shin-henshuu-ban.png" src="https://animecdn.sbs/cover/rezero-kara-hajimeru-isekai-seikatsu-shin-henshuu-ban.png" alt="Re:Zero kara Hajimeru Isekai Seikatsu: Shin Henshuu-ban">
+																					   <a class="film-poster-ahref" href="/anime/rezero-kara-hajimeru-isekai-seikatsu-shin-henshuu-ban" title="Re:Zero kara Hajimeru Isekai Seikatsu: Shin Henshuu-ban"><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/rezero-kara-hajimeru-isekai-seikatsu-shin-henshuu-ban" title="Re:Zero kara Hajimeru Isekai Seikatsu: Shin Henshuu-ban" data-jname="Re:Zero kara Hajimeru Isekai Seikatsu: Shin Henshuu-ban" style="opacity: 1;">Re:Zero kara Hajimeru Isekai Seikatsu: Shin Henshuu-ban</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">2020</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-dub">DUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 26</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/cover/excel-saga-dub.png" src="https://animecdn.sbs/cover/excel-saga-dub.png" alt="Excel Saga (Dub)">
+																					   <a class="film-poster-ahref" href="/anime/excel-saga-dub" title="Excel Saga (Dub)"><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/excel-saga-dub" title="Excel Saga (Dub)" data-jname="Excel Saga (Dub)" style="opacity: 1;">Excel Saga (Dub)</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">1999</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-sub">SUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 13</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/images/anime/A/Aria%20the%20Animation.jpg" src="https://animecdn.sbs/images/anime/A/Aria%20the%20Animation.jpg" alt="Aria the Animation">
+																					   <a class="film-poster-ahref" href="/anime/aria-the-animation" title="Aria the Animation"><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/aria-the-animation" title="Aria the Animation" data-jname="Aria the Animation" style="opacity: 1;">Aria the Animation</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">2005</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-sub">SUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 26</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/images/upload/Sky%20Girls%20(TV).jpg" src="https://animecdn.sbs/images/upload/Sky%20Girls%20(TV).jpg" alt="Sky Girls (TV)">
+																					   <a class="film-poster-ahref" href="/anime/sky-girls-tv-" title="Sky Girls (TV)"><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/sky-girls-tv-" title="Sky Girls (TV)" data-jname="Sky Girls (TV)" style="opacity: 1;">Sky Girls (TV)</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">2007</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-sub">SUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 13</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/images/anime/Uchouten-Kazoku2.jpg" src="https://animecdn.sbs/images/anime/Uchouten-Kazoku2.jpg" alt="Uchouten Kazoku">
+																					   <a class="film-poster-ahref" href="/anime/uchouten-kazoku" title="Uchouten Kazoku"><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/uchouten-kazoku" title="Uchouten Kazoku" data-jname="Uchouten Kazoku" style="opacity: 1;">Uchouten Kazoku</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">2013</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-sub">SUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 26</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/images/anime/S/shadow-skill.jpg" src="https://animecdn.sbs/images/anime/S/shadow-skill.jpg" alt="Shadow Skill ">
+																					   <a class="film-poster-ahref" href="/anime/shadow-skill-" title="Shadow Skill "><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/shadow-skill-" title="Shadow Skill " data-jname="Shadow Skill " style="opacity: 1;">Shadow Skill </a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">1998</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-dub">DUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 25</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/cover/tiger-bunny-dub.png" src="https://animecdn.sbs/cover/tiger-bunny-dub.png" alt="Tiger &amp; Bunny (Dub)">
+																					   <a class="film-poster-ahref" href="/anime/tiger-bunny-dub" title="Tiger &amp; Bunny (Dub)"><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/tiger-bunny-dub" title="Tiger &amp; Bunny (Dub)" data-jname="Tiger &amp; Bunny (Dub)" style="opacity: 1;">Tiger &amp; Bunny (Dub)</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">2011</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-dub">DUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 13</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/cover/shikabane-hime-aka-dub.png" src="https://animecdn.sbs/cover/shikabane-hime-aka-dub.png" alt="Shikabane Hime: Aka (Dub)">
+																					   <a class="film-poster-ahref" href="/anime/shikabane-hime-aka-dub" title="Shikabane Hime: Aka (Dub)"><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/shikabane-hime-aka-dub" title="Shikabane Hime: Aka (Dub)" data-jname="Shikabane Hime: Aka (Dub)" style="opacity: 1;">Shikabane Hime: Aka (Dub)</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">2008</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-sub">SUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 47</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/images/anime/Pokemon.jpg" src="https://animecdn.sbs/images/anime/Pokemon.jpg" alt="Pokemon Season 09: Battle Frontier">
+																					   <a class="film-poster-ahref" href="/anime/pokemon-season-09-battle-frontier" title="Pokemon Season 09: Battle Frontier"><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/pokemon-season-09-battle-frontier" title="Pokemon Season 09: Battle Frontier" data-jname="Pokemon Season 09: Battle Frontier" style="opacity: 1;">Pokemon Season 09: Battle Frontier</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">0</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-sub">SUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 6</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/images/anime/H/hagure-yuusha-no-estetica.jpg" src="https://animecdn.sbs/images/anime/H/hagure-yuusha-no-estetica.jpg" alt="Hagure Yuusha no Estetica – Hajirai Ippai Special">
+																					   <a class="film-poster-ahref" href="/anime/hagure-yuusha-no-estetica-hajirai-ippai-special" title="Hagure Yuusha no Estetica – Hajirai Ippai Special"><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/hagure-yuusha-no-estetica-hajirai-ippai-special" title="Hagure Yuusha no Estetica – Hajirai Ippai Special" data-jname="Hagure Yuusha no Estetica – Hajirai Ippai Special" style="opacity: 1;">Hagure Yuusha no Estetica – Hajirai Ippai Special</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">2012</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-dub">DUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 25</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/cover/tsukuyomi-moon-phase-dub.png" src="https://animecdn.sbs/cover/tsukuyomi-moon-phase-dub.png" alt="Tsukuyomi: Moon Phase (Dub)">
+																					   <a class="film-poster-ahref" href="/anime/tsukuyomi-moon-phase-dub" title="Tsukuyomi: Moon Phase (Dub)"><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/tsukuyomi-moon-phase-dub" title="Tsukuyomi: Moon Phase (Dub)" data-jname="Tsukuyomi: Moon Phase (Dub)" style="opacity: 1;">Tsukuyomi: Moon Phase (Dub)</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">2004</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-sub">SUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 12</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/images/anime/S/Sparrows-Hotel.jpg" src="https://animecdn.sbs/images/anime/S/Sparrows-Hotel.jpg" alt="Sparrow`s Hotel">
+																					   <a class="film-poster-ahref" href="/anime/sparrows-hotel" title="Sparrow`s Hotel"><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/sparrows-hotel" title="Sparrow`s Hotel" data-jname="Sparrow`s Hotel" style="opacity: 1;">Sparrow`s Hotel</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">2013</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+								                                    <div class="flw-item ">
+                                        <div class="film-poster">
+                                                <div class="tick-item-sub">SUB</div>
+                                            <div class="tick rtl">
+                                                <div class="tick-item tick-eps amp-algn">EP 1</div>
+                                            </div>
+											                                            <img class="film-poster-img lazyload" data-src="https://animecdn.sbs/images/summer/LocoOVA.jpg" src="https://animecdn.sbs/images/summer/LocoOVA.jpg" alt="Futsuu no Joshikousei ga [Locodol] Yatte Mita.: Nagarekawa, Annai Shite Mita.">
+																					   <a class="film-poster-ahref" href="/anime/futsuu-no-joshikousei-ga-locodol-yatte-mita-nagarekawa-annai-shite-mita" title="Futsuu no Joshikousei ga [Locodol] Yatte Mita.: Nagarekawa, Annai Shite Mita."><i class="fas fa-play"></i></a>
+                                        </div>
+                                        <div class="film-detail">
+                                            <h3 class="film-name">
+											<a class="dynamic-name" href="/anime/futsuu-no-joshikousei-ga-locodol-yatte-mita-nagarekawa-annai-shite-mita" title="Futsuu no Joshikousei ga [Locodol] Yatte Mita.: Nagarekawa, Annai Shite Mita." data-jname="Futsuu no Joshikousei ga [Locodol] Yatte Mita.: Nagarekawa, Annai Shite Mita." style="opacity: 1;">Futsuu no Joshikousei ga [Locodol] Yatte Mita.: Nagarekawa, Annai Shite Mita.</a>
+											</h3>
+											                                           <div class="fd-infor">
+													<span class="fdi-item">TV Series</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">Completed</span>
+                                                    <span class="dot"></span>
+                                                    <span class="fdi-item">2014</span>
+													</div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+
+								                                </div>
+                                <div class="clearfix"></div>
+								                            </div>
+                        </div>
+                    </section>
+					
+                    <div class="clearfix"></div>
+                </div>
+				
+		<div id="main-sidebar">
+		                    <section class="block_area block_area_sidebar block_area-realtime">
+                        <div class="block_area-header">
+                            <div class="float-left bah-heading mr-2">
+                                <h2 class="cat-heading">Current Anime</h2>
+                            </div>
+                            <div class="float-right bah-tab-min">
+                                <ul class="nav nav-pills nav-fill nav-tabs anw-tabs">
+                                    <li class="nav-item"><a data-toggle="tab" href="#most-view" class="nav-link active">Popular</a></li>
+                                    <li class="nav-item"><a data-toggle="tab" href="#ongoing" class="nav-link">Ongoing</a></li>
+                                    <li class="nav-item"><a data-toggle="tab" href="#complete" class="nav-link">Completed</a></li>
+                                </ul>
+                            </div>
+                            <div class="clearfix"></div>
+                        </div>
+					
+                        <div class="block_area-content">
+                            <div class="cbox cbox-list cbox-realtime">
+                                <div class="cbox-content">
+                                    <div class="tab-content">
+                                         <div id="most-view" class="anif-block-ul anif-block-chart tab-pane active">
+                                            <ul class="ulclear">
+							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/images/anime/One-piece.jpg" class="film-poster-img lazyload" alt="One Piece" src="https://animecdn.sbs/images/anime/One-piece.jpg">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/one-piece" title="One Piece" class="dynamic-name" data-jname="One Piece">One Piece</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> TV Series </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 1999</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 1013</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/naruto-shippuden-dub.png" class="film-poster-img lazyload" alt="Naruto Shippuuden (Dub)" src="https://animecdn.sbs/cover/naruto-shippuden-dub.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/naruto-shippuuden-dub" title="Naruto Shippuuden (Dub)" class="dynamic-name" data-jname="Naruto Shippuuden (Dub)">Naruto Shippuuden (Dub)</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> TV Series </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2007</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 500</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/shingeki-no-kyojin-the-final-season-part-2.png" class="film-poster-img lazyload" alt="Shingeki no Kyojin: The Final Season Part 2" src="https://animecdn.sbs/cover/shingeki-no-kyojin-the-final-season-part-2.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/shingeki-no-kyojin-the-final-season-part-2" title="Shingeki no Kyojin: The Final Season Part 2" class="dynamic-name" data-jname="Shingeki no Kyojin: The Final Season Part 2">Shingeki no Kyojin: The Final Season Part 2</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> Winter 2022  </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2022</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 12</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/kimetsu-no-yaiba-yuukaku-hen.png" class="film-poster-img lazyload" alt="Kimetsu no Yaiba: Yuukaku-hen" src="https://animecdn.sbs/cover/kimetsu-no-yaiba-yuukaku-hen.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/kimetsu-no-yaiba-yuukaku-hen" title="Kimetsu no Yaiba: Yuukaku-hen" class="dynamic-name" data-jname="Kimetsu no Yaiba: Yuukaku-hen">Kimetsu no Yaiba: Yuukaku-hen</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> Winter 2022  </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2021</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 11</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/one-piece-dub.png" class="film-poster-img lazyload" alt="One Piece (Dub)" src="https://animecdn.sbs/cover/one-piece-dub.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/one-piece-dub" title="One Piece (Dub)" class="dynamic-name" data-jname="One Piece (Dub)">One Piece (Dub)</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> TV Series </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 1999</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 793</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/boku-no-hero-academia-the-movie-3-world-heroes-mission.png" class="film-poster-img lazyload" alt="Boku no Hero Academia the Movie 3: World Heroes&#039; Mission" src="https://animecdn.sbs/cover/boku-no-hero-academia-the-movie-3-world-heroes-mission.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/boku-no-hero-academia-the-movie-3-world-heroes-mission" title="Boku no Hero Academia the Movie 3: World Heroes&#039; Mission" class="dynamic-name" data-jname="Boku no Hero Academia the Movie 3: World Heroes&#039; Mission">Boku no Hero Academia the Movie 3: World Heroes&#039; Mission</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> Movie </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2021</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 1</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/images/anime/naruto_shippuden.jpg" class="film-poster-img lazyload" alt="Naruto Shippuden" src="https://animecdn.sbs/images/anime/naruto_shippuden.jpg">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/naruto-shippuden" title="Naruto Shippuden" class="dynamic-name" data-jname="Naruto Shippuden">Naruto Shippuden</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> TV Series </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2007</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 500</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/jujutsu-kaisen-tv.png" class="film-poster-img lazyload" alt="Jujutsu Kaisen (TV)" src="https://animecdn.sbs/cover/jujutsu-kaisen-tv.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/jujutsu-kaisen-tv" title="Jujutsu Kaisen (TV)" class="dynamic-name" data-jname="Jujutsu Kaisen (TV)">Jujutsu Kaisen (TV)</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> Fall 2020  </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2020</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 24</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/black-clover-tv.png" class="film-poster-img lazyload" alt="Black Clover (TV)" src="https://animecdn.sbs/cover/black-clover-tv.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/black-clover-tv" title="Black Clover (TV)" class="dynamic-name" data-jname="Black Clover (TV)">Black Clover (TV)</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> Fall 2017  </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2017</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 170</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/naruto-dub.png" class="film-poster-img lazyload" alt="Naruto (Dub)" src="https://animecdn.sbs/cover/naruto-dub.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/naruto-dub" title="Naruto (Dub)" class="dynamic-name" data-jname="Naruto (Dub)">Naruto (Dub)</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> TV Series </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2002</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 220</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                            </ul>
+                                        </div>
+										
+										<div id="ongoing" class="anif-block-ul anif-block-chart tab-pane ">
+                                            <ul class="ulclear">
+							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/dragons-disciple.png" class="film-poster-img lazyload" alt="Dragon’s Disciple" src="https://animecdn.sbs/cover/dragons-disciple.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/dragons-disciple" title="Dragon’s Disciple" class="dynamic-name" data-jname="Dragon’s Disciple">Dragon’s Disciple</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> ONA </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2022</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 12</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/kimetsu-no-yaiba-yuukaku-hen-dub.png" class="film-poster-img lazyload" alt="Kimetsu no Yaiba: Yuukaku-hen (Dub)" src="https://animecdn.sbs/cover/kimetsu-no-yaiba-yuukaku-hen-dub.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/kimetsu-no-yaiba-yuukaku-hen-dub" title="Kimetsu no Yaiba: Yuukaku-hen (Dub)" class="dynamic-name" data-jname="Kimetsu no Yaiba: Yuukaku-hen (Dub)">Kimetsu no Yaiba: Yuukaku-hen (Dub)</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> Winter 2022  </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2022</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 7</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/sasaki-to-miyano-dub.png" class="film-poster-img lazyload" alt="Sasaki to Miyano (Dub)" src="https://animecdn.sbs/cover/sasaki-to-miyano-dub.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/sasaki-to-miyano-dub" title="Sasaki to Miyano (Dub)" class="dynamic-name" data-jname="Sasaki to Miyano (Dub)">Sasaki to Miyano (Dub)</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> TV Series </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2022</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 9</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/yami-shibai-10.png" class="film-poster-img lazyload" alt="Yami Shibai 10" src="https://animecdn.sbs/cover/yami-shibai-10.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/yami-shibai-10" title="Yami Shibai 10" class="dynamic-name" data-jname="Yami Shibai 10">Yami Shibai 10</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> Winter 2022  </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2022</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 13</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/baraou-no-souretsu.png" class="film-poster-img lazyload" alt="Baraou no Souretsu" src="https://animecdn.sbs/cover/baraou-no-souretsu.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/baraou-no-souretsu" title="Baraou no Souretsu" class="dynamic-name" data-jname="Baraou no Souretsu">Baraou no Souretsu</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> Winter 2022  </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2021</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 12</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu.png" class="film-poster-img lazyload" alt="Otome Game Sekai wa Mob ni Kibishii Sekai desu" src="https://animecdn.sbs/cover/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu" title="Otome Game Sekai wa Mob ni Kibishii Sekai desu" class="dynamic-name" data-jname="Otome Game Sekai wa Mob ni Kibishii Sekai desu">Otome Game Sekai wa Mob ni Kibishii Sekai desu</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> Spring 2022  </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2022</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 1</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/magia-record-mahou-shoujo-madokamagica-gaiden-tv-final-season-asaki-yume-no-akatsuki.png" class="film-poster-img lazyload" alt="Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki" src="https://animecdn.sbs/cover/magia-record-mahou-shoujo-madokamagica-gaiden-tv-final-season-asaki-yume-no-akatsuki.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/magia-record-mahou-shoujo-madokamagica-gaiden-tv-final-season-asaki-yume-no-akatsuki" title="Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki" class="dynamic-name" data-jname="Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki">Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> Spring 2022  </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2022</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 1</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/yugioh-go-rush.png" class="film-poster-img lazyload" alt="Yu☆Gi☆Oh!: Go Rush!!" src="https://animecdn.sbs/cover/yugioh-go-rush.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/yugioh-go-rush" title="Yu☆Gi☆Oh!: Go Rush!!" class="dynamic-name" data-jname="Yu☆Gi☆Oh!: Go Rush!!">Yu☆Gi☆Oh!: Go Rush!!</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> Spring 2022  </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2022</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 1</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/wu-shen-zhu-zai.png" class="film-poster-img lazyload" alt="Wu Shen Zhu Zai" src="https://animecdn.sbs/cover/wu-shen-zhu-zai.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/wu-shen-zhu-zai" title="Wu Shen Zhu Zai" class="dynamic-name" data-jname="Wu Shen Zhu Zai">Wu Shen Zhu Zai</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> ONA </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2020</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 219</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/the-legend-of-sword-domain.png" class="film-poster-img lazyload" alt="The Legend of Sword Domain" src="https://animecdn.sbs/cover/the-legend-of-sword-domain.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/the-legend-of-sword-domain" title="The Legend of Sword Domain" class="dynamic-name" data-jname="The Legend of Sword Domain">The Legend of Sword Domain</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> ONA </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2021</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 20</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                            </ul>
+                                        </div>
+
+                                        <div id="complete" class="anif-block-ul anif-block-chart tab-pane ">
+                                            <ul class="ulclear">
+							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/magia-record-mahou-shoujo-madokamagica-gaiden-tv-2nd-season.png" class="film-poster-img lazyload" alt="Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) 2nd Season" src="https://animecdn.sbs/cover/magia-record-mahou-shoujo-madokamagica-gaiden-tv-2nd-season.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/magia-record-mahou-shoujo-madokamagica-gaiden-tv-2nd-season" title="Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) 2nd Season" class="dynamic-name" data-jname="Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) 2nd Season">Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) 2nd Season</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> Summer 2021  </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2021</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 12</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/shingeki-no-kyojin-the-final-season-part-2.png" class="film-poster-img lazyload" alt="Shingeki no Kyojin: The Final Season Part 2" src="https://animecdn.sbs/cover/shingeki-no-kyojin-the-final-season-part-2.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/shingeki-no-kyojin-the-final-season-part-2" title="Shingeki no Kyojin: The Final Season Part 2" class="dynamic-name" data-jname="Shingeki no Kyojin: The Final Season Part 2">Shingeki no Kyojin: The Final Season Part 2</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> Winter 2022  </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2022</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 12</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/cap-kakumei-bottleman.png" class="film-poster-img lazyload" alt="Cap Kakumei Bottleman" src="https://animecdn.sbs/cover/cap-kakumei-bottleman.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/cap-kakumei-bottleman" title="Cap Kakumei Bottleman" class="dynamic-name" data-jname="Cap Kakumei Bottleman">Cap Kakumei Bottleman</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> ONA </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2020</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 25</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/cardfight-vanguard-overdress-season-2-dub.png" class="film-poster-img lazyload" alt="Cardfight!! Vanguard: overDress Season 2 (Dub)" src="https://animecdn.sbs/cover/cardfight-vanguard-overdress-season-2-dub.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/cardfight-vanguard-overdress-season-2-dub" title="Cardfight!! Vanguard: overDress Season 2 (Dub)" class="dynamic-name" data-jname="Cardfight!! Vanguard: overDress Season 2 (Dub)">Cardfight!! Vanguard: overDress Season 2 (Dub)</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> TV Series </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2021</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 13</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/wan-jie-shen-zhu.png" class="film-poster-img lazyload" alt="Wan Jie Shen Zhu" src="https://animecdn.sbs/cover/wan-jie-shen-zhu.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/wan-jie-shen-zhu" title="Wan Jie Shen Zhu" class="dynamic-name" data-jname="Wan Jie Shen Zhu">Wan Jie Shen Zhu</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> ONA </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2019</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 220</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/kinnikuman.png" class="film-poster-img lazyload" alt="Kinnikuman" src="https://animecdn.sbs/cover/kinnikuman.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/kinnikuman" title="Kinnikuman" class="dynamic-name" data-jname="Kinnikuman">Kinnikuman</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> TV Series </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 1983</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 100</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/bakugan-geogan-rising-dub.png" class="film-poster-img lazyload" alt="Bakugan: Geogan Rising (Dub)" src="https://animecdn.sbs/cover/bakugan-geogan-rising-dub.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/bakugan-geogan-rising-dub" title="Bakugan: Geogan Rising (Dub)" class="dynamic-name" data-jname="Bakugan: Geogan Rising (Dub)">Bakugan: Geogan Rising (Dub)</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> ONA </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2021</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 25</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/summer-ghost.png" class="film-poster-img lazyload" alt="Summer Ghost" src="https://animecdn.sbs/cover/summer-ghost.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/summer-ghost" title="Summer Ghost" class="dynamic-name" data-jname="Summer Ghost">Summer Ghost</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> Movie </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2021</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 1</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/vanitas-no-carte-part-2.png" class="film-poster-img lazyload" alt="Vanitas no Carte Part 2" src="https://animecdn.sbs/cover/vanitas-no-carte-part-2.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/vanitas-no-carte-part-2" title="Vanitas no Carte Part 2" class="dynamic-name" data-jname="Vanitas no Carte Part 2">Vanitas no Carte Part 2</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> Winter 2022  </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2022</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 13</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                                <li class="item-top">
+                                                    <div class="film-poster">
+                                                        <img data-src="https://animecdn.sbs/cover/shaonian-ge-xing-feng-hua-xue-yue-pian.png" class="film-poster-img lazyload" alt="Shaonian Ge Xing: Feng Hua Xue Yue Pian" src="https://animecdn.sbs/cover/shaonian-ge-xing-feng-hua-xue-yue-pian.png">
+                                                    </div>
+                                                    <div class="film-detail">
+                                                        <h3 class="film-name">
+														<a href="/anime/shaonian-ge-xing-feng-hua-xue-yue-pian" title="Shaonian Ge Xing: Feng Hua Xue Yue Pian" class="dynamic-name" data-jname="Shaonian Ge Xing: Feng Hua Xue Yue Pian">Shaonian Ge Xing: Feng Hua Xue Yue Pian</a>
+														</h3>
+														<div class="fd-infor">
+														<span class="fdi-item">
+														<i class="fa fa-tv"></i> ONA </span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-calendar mr-1"></i> 2021</span> <span class="dot"></span> <span class="fdi-item"><i class="fas fa-play-circle mr-1"></i> EP 27</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </li>							                                            </ul>
+                                        </div>									    <div class="clearfix"></div>
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+					
+                        <section class="block_area block_area_sidebar block_area-genres">
+                        <div class="block_area-header">
+                            <div class="float-left bah-heading mr-4">
+                                <h2 class="cat-heading">Genres</h2>
+                            </div>
+                            <div class="clearfix"></div>
+                        </div>
+                        <div class="block_area-content">
+                            <div class="cbox cbox-genres">
+                                <ul class="ulclear color-list sb-genre-list sb-genre-less">
+                                    <li class="nav-item"> <a class="nav-link" href="../genres?sort_genre=Action" title="Action">Action</a> </li>
+<li> <a href="../genres?sort_genre=Adventure" title="Adventure">Adventure</a> </li>
+<li> <a href="../genres?sort_genre=Cars" title="Cars">Cars</a> </li>
+<li> <a href="../genres?sort_genre=Comedy" title="Comedy">Comedy</a> </li>
+<li> <a href="../genres?sort_genre=Dementia" title="Dementia">Dementia</a> </li>
+<li> <a href="../genres?sort_genre=Demons" title="Demons">Demons</a> </li>
+<li> <a href="../genres?sort_genre=Drama" title="Drama">Drama</a> </li>
+<li> <a href="../genres?sort_genre=Ecchi" title="Ecchi">Ecchi</a> </li>
+<li> <a href="../genres?sort_genre=Fantasy" title="Fantasy">Fantasy</a> </li>
+<li> <a href="../genres?sort_genre=Game" title="Game">Game</a> </li>
+<li> <a href="../genres?sort_genre=Harem" title="Harem">Harem</a> </li>
+<li> <a href="../genres?sort_genre=Historical" title="Historical">Historical</a> </li>
+<li> <a href="../genres?sort_genre=Horror" title="Horror">Horror</a> </li>
+<li> <a href="../genres?sort_genre=Josei" title="Josei">Josei</a> </li>
+<li> <a href="../genres?sort_genre=Kids" title="Kids">Kids</a> </li>
+<li> <a href="../genres?sort_genre=Magic" title="Magic">Magic</a> </li>
+<li> <a href="../genres?sort_genre=Martial Arts" title="Martial Arts">Martial Arts</a> </li>
+<li> <a href="../genres?sort_genre=Mecha" title="Mecha">Mecha</a> </li>
+<li> <a href="../genres?sort_genre=Military" title="Military">Military</a> </li>
+<li> <a href="../genres?sort_genre=Music" title="Music">Music</a> </li>
+<li> <a href="../genres?sort_genre=Mystery" title="Mystery">Mystery</a> </li>
+<li> <a href="../genres?sort_genre=Parody" title="Parody">Parody</a> </li>
+<li> <a href="../genres?sort_genre=Police" title="Police">Police</a> </li>
+<li> <a href="../genres?sort_genre=Psychological" title="Psychological">Psychological</a> </li>
+<li> <a href="../genres?sort_genre=Romance" title="Romance">Romance</a> </li>
+<li> <a href="../genres?sort_genre=Samurai" title="Samurai">Samurai</a> </li>
+<li> <a href="../genres?sort_genre=School" title="School">School</a> </li>
+<li> <a href="../genres?sort_genre=Sci-Fi" title="Sci Fi">Sci Fi</a> </li>
+<li> <a href="../genres?sort_genre=Seinen" title="Seinen">Seinen</a> </li>
+<li> <a href="../genres?sort_genre=Shoujo" title="Shoujo">Shoujo</a> </li>
+<li> <a href="../genres?sort_genre=Shoujo Ai" title="Shoujo Ai">Shoujo Ai</a> </li>
+<li> <a href="../genres?sort_genre=Shounen" title="Shounen">Shounen</a> </li>
+<li> <a href="../genres?sort_genre=Shounen Ai" title="Shounen Ai">Shounen Ai</a> </li>
+<li> <a href="../genres?sort_genre=Slice of Life" title="Slice of Life">Slice of Life</a> </li>
+<li> <a href="../genres?sort_genre=Space" title="Space">Space</a> </li>
+<li> <a href="../genres?sort_genre=Sports" title="Sports">Sports</a> </li>
+<li> <a href="../genres?sort_genre=Super Power" title="Super Power">Super Power</a> </li>
+<li> <a href="../genres?sort_genre=Supernatural" title="Supernatural">Supernatural</a> </li>
+<li> <a href="../genres?sort_genre=Thriller" title="Thriller">Thriller</a> </li>
+<li> <a href="../genres?sort_genre=Vampire" title="Vampire">Vampire</a> </li>
+<li> <a href="../genres?sort_genre=Yaoi" title="Yaoi">Yaoi</a> </li>
+<li> <a href="../genres?sort_genre=Yuri" title="Yuri">Yuri</a> </li>  
+
+							  </ul>                         
+                                <div class="clearfix"></div>
+                                <button class="btn btn-sm btn-block btn-showmore mt-2"></button>
+                            </div>
+                        </div>
+                    </section>                </div>				                <div class="clearfix"></div>
+            </div>
+        </div>
+        <div id="footer" data-settings='{"auto_play":1,"auto_next":1,"auto_load_comments":0,"enable_dub":0,"anime_name":"jp","play_original_audio":0}'>
+            <div id="footer-about">
+                <div class="container">
+                    <div class="footer-top">
+                        <a href="/home" class="footer-logo">
+                            <img src="/assets/images/logo.png" alt="AnimeFox">
+                            <div class="clearfix"></div>
+                        </a>
+                            <div class="footer-joingroup">
+                            <div class="zoro-group">
+                                <div class="zrg-title"><span class="top">Join now</span><span class="bottom">AnimeFox Group</span></div>
+<div class="zrg-list">
+<div class="item"><a href="https://facebook.com/CCAnimeTV" target="_blank" class="zr-social-button dc-btn"><i class="fab fa-facebook"></i></a></div>
+<div class="item"><a href="https://discord.gg/4SfZsXpTxZ" target="_blank" class="zr-social-button dc-btn"><i class="fab fa-discord"></i></a></div>
+<div class="item"><a href="https://ko-fi.com/AnimeFox" target="_blank" class="zr-social-button tl-btn"><i class="fab fa-gratipay"></i></a></div>
+<div class="item"><a href="https://reddit.com/r/AnimeFox" target="_blank" class="zr-social-button rd-btn"><i class="fab fa-reddit-alien"></i></a></div>
+</div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="footer-az">
+                        <div class="block mb-3">
+                            <span class="ftaz">A-Z LIST</span>
+							<span class="size-s">Searching anime order by alphabet name A to Z.</span>
+                        </div>
+    <ul class="ulclear az-list">
+                    <li><a href="/anime">All</a></li>
+                    
+                        <li><a href="/az-list/A">A</a>
+                        </li>
+                    
+                        <li><a href="/az-list/B">B</a>
+                        </li>
+                    
+                        <li><a href="/az-list/C">C</a>
+                        </li>
+                    
+                        <li><a href="/az-list/D">D</a>
+                        </li>
+                    
+                        <li><a href="/az-list/E">E</a>
+                        </li>
+                    
+                        <li><a href="/az-list/F">F</a>
+                        </li>
+                    
+                        <li><a href="/az-list/G">G</a>
+                        </li>
+                    
+                        <li><a href="/az-list/H">H</a>
+                        </li>
+                    
+                        <li><a href="/az-list/I">I</a>
+                        </li>
+                    
+                        <li><a href="/az-list/J">J</a>
+                        </li>
+                    
+                        <li><a href="/az-list/K">K</a>
+                        </li>
+                    
+                        <li><a href="/az-list/L">L</a>
+                        </li>
+                    
+                        <li><a href="/az-list/M">M</a>
+                        </li>
+                    
+                        <li><a href="/az-list/N">N</a>
+                        </li>
+                    
+                        <li><a href="/az-list/O">O</a>
+                        </li>
+                    
+                        <li><a href="/az-list/P">P</a>
+                        </li>
+                    
+                        <li><a href="/az-list/Q">Q</a>
+                        </li>
+                    
+                        <li><a href="/az-list/R">R</a>
+                        </li>
+                    
+                        <li><a href="/az-list/S">S</a>
+                        </li>
+                    
+                        <li><a href="/az-list/T">T</a>
+                        </li>
+                    
+                        <li><a href="/az-list/U">U</a>
+                        </li>
+                    
+                        <li><a href="/az-list/V">V</a>
+                        </li>
+                    
+                        <li><a href="/az-list/W">W</a>
+                        </li>
+                    
+                        <li><a href="/az-list/X">X</a>
+                        </li>
+                    
+                        <li><a href="/az-list/Y">Y</a>
+                        </li>
+                    
+                        <li><a href="/az-list/Z">Z</a>
+                        </li>
+                    
+                </ul>
+                        <div class="clearfix"></div>
+                    </div>                    <div class="about-text">AnimeFox does not store any files on our server, we only share link to the media which is hosted on 3rd party services.</div>
+                    <p class="copyright">Copyright © 2022 AnimeFox. All Rights Reserved</p>
+                </div>
+            </div>
+        </div>        <div id="mask-overlay"></div>
+		 <div class="modal fade premodal premodal-login" id="modallogin" tabindex="-1" role="dialog" aria-labelledby="modallogintitle" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="tab-content">
+
+                        <div id="modal-tab-login" class="tab-pane active">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="modallogintitle">Welcome back!</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">×</span>
+</button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="alert alert-danger mb-5" id="login-error" style="display: none;"></div>
+                                <form class="preform" id="login-form" method="post">
+                                    <div class="form-group">
+                                        <label class="prelabel" for="email">Email address</label>
+                                        <input type="text" class="form-control" id="email" placeholder="name@email.com" name="email" required="">
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="prelabel" for="password">Password</label>
+                                        <input type="password" class="form-control" id="password" placeholder="Password" name="password" required="">
+                                    </div>
+                                    <div class="form-check custom-control custom-checkbox">
+                                        <div class="float-left">
+                                            <input type="checkbox" class="custom-control-input" id="remember">
+                                            <label class="custom-control-label" for="remember">Remember me</label>
+                                        </div>
+                                        <div class="float-right">
+                                            <a href="/home#" class="link-highlight text-forgot forgot-tab-link">Forgot password?</a>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                    <div class="mt-4">&nbsp;</div>
+                                    <div class="form-group login-btn mb-0">
+                                        <button id="btn-login" class="btn btn-primary btn-block">Login</button>
+                                        <div class="loading-relative" id="login-loading" style="display: none;">
+                                            <div class="loading">
+                                                <div class="span1"></div>
+                                                <div class="span2"></div>
+                                                <div class="span3"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                            <div class="modal-footer text-center">
+                                Don't have an account? <a class="link-highlight register-tab-link" title="Register">Register</a>
+                            </div>
+                        </div>
+
+
+                        <div id="modal-tab-forgot" class="tab-pane fade">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="modallogintitle3">Reset Password</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">×</span>
+</button>
+                            </div>
+                            <div class="modal-body" style="padding-bottom: 20px;">
+                                <form class="preform" action="/()">
+                                    <div class="form-group">
+                                        <label class="prelabel" for="forgot-email">Your Email</label>
+                                        <input type="text" class="form-control" id="forgot-email" placeholder="name@email.com">
+                                    </div>
+                                    <div class="form-group login-btn mb-0">
+                                        <a href="/logged.html" class="btn btn-primary btn-block">Forgot your password</a>
+                                    </div>
+                                </form>
+                            </div>
+                            <div class="modal-footer text-center">
+                                <a class="link-highlight login-tab-link" title=""><i class="fas fa-angle-left mr-2"></i>Back to
+Sign-in</a>
+                            </div>
+                        </div>
+
+                        <div id="modal-tab-register" class="tab-pane fade">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="modallogintitle2">Create an Account</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">×</span>
+</button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="alert alert-danger mb-5" id="register-error" style="display: none;"></div>
+                                <form class="preform" method="post" id="register-form">
+                                    <div class="form-group">
+                                        <label class="prelabel" for="re-username">Your name</label>
+                                        <input type="text" class="form-control" id="re-username" placeholder="Name" name="name" required="">
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="prelabel" for="re-email">Email address</label>
+                                        <input type="text" class="form-control" id="re-email" placeholder="name@email.com" name="email" required="">
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="prelabel" for="re-password">Password</label>
+                                        <input type="password" class="form-control" id="re-password" placeholder="Password" name="password" required="">
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="prelabel" for="re-confirmpassword">Confirm Password</label>
+                                        <input type="password" class="form-control" id="re-confirmpassword" placeholder="Confirm Password" name="confirm_password" required="">
+                                    </div>
+                                    <div class="mt-4">&nbsp;</div>
+                                    <div class="form-group login-btn mb-0">
+                                        <button id="btn-register" class="btn btn-primary btn-block">Register</button>
+                                        <div class="loading-relative" id="register-loading" style="display: none;">
+                                            <div class="loading">
+                                                <div class="span1"></div>
+                                                <div class="span2"></div>
+                                                <div class="span3"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                            <div class="modal-footer text-center">
+                                Have an account? <a class="link-highlight login-tab-link" title="Login">Login</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>       
+        
+				<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
+    <script type="text/javascript" src="/assets/js/app.min.js?v=0.0000001"></script>
+    <script type="text/javascript" src="/assets/js/common.js?v=0.0000001"></script>
+    <script type="text/javascript" src="/assets/js/movie.js?v=0.0000001"></script>
+    <script type="text/javascript">
+        $("body").delegate('#select-iframe-to-display','change',function () {
+            var value=$(this).val()
+            var afterSplitted=value.split('-#-');
+            var host=afterSplitted[afterSplitted.length-1];
+            var videoLink=afterSplitted[0];
+            if(host=="default"){
+                $("#iframe-to-load").attr('src',""+videoLink);
+            }else if(host=="backup"){
+                $("#iframe-to-load").attr('src',""+videoLink);
+            }else if(host=="streamani"){
+                $("#iframe-to-load").attr('src',"//"+videoLink);
+            }
+        })
+</script>  
+	<div style="display:none;">
+
+</div>
+	
+    </div>
+  	
+	
+</body>
+
+</html>
