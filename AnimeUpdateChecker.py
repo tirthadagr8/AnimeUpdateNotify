@@ -43,7 +43,7 @@ for url in Link:
     #print(ep)
     ep=int(ep)
     #print('ep=',ep)
-    len(elem)
+    #len(elem)
     status='0'
     #print(size)
     if(ep==len(elem)):
