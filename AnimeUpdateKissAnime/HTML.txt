@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+   <head>
+            <meta name="robots" content="index,follow"/>
+            <meta charset="utf-8"/>
+      <title>Watch Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs Online Free | KissAnime</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1"/>
+      <link rel="preconnect" href="https://static.anmedm.com" crossorigin>
+      <meta name="description" content="Watch lastest Episode 001 and download Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs - Otomege Sekai wa Mob ni Kibishii Sekai desu online on KissAnime for free without downloading, signup. WATCH NOW!!!"/>
+      <meta property="og:title" content="Watch Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs Online Free | KissAnime"/>
+      <meta property="og:url" content="https://kissanime.co/Anime/Trapped-in-a-Dating-Sim-The-World-of-Otome-Games-Is-Tough-for-Mobs/"/>
+      <meta property="og:image" content="https://static.anmedm.com/media/imagesv2/2022/03/Trapped-in-a-Dating-Sim-The-World-of-Otome-Games-Is-Tough-for-Mobs.jpg"/>
+      <meta property="og:description" content="Watch lastest Episode 001 and download Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs - Otomege Sekai wa Mob ni Kibishii Sekai desu online on KissAnime for free without downloading, signup. WATCH NOW!!!"/>
+      <meta property="og:site_name" content="kissanime.co"/>
+      <link rel="canonical" href="https://kissanime.co/Anime/Trapped-in-a-Dating-Sim-The-World-of-Otome-Games-Is-Tough-for-Mobs/" />
+      <meta name="apple-mobile-web-app-title" content="Watch Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs Online Free | KissAnime"/>
+      <meta name="application-name" content="Watch Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs Online Free | KissAnime"/>
+      <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+      <meta name="apple-mobile-web-app-capable" content="yes"/>
+      <meta name="mobile-web-app-capable" content="yes"/>
+      <meta name="referrer" content="always">
+      <meta name="clckd" content="9b1e537e4fb6d7f7e5a20743a03bdc1c" />
+            <link rel="shortcut icon" href="https://static.anmedm.com/images/icons/favicon_new.ico" type="image/x-icon"/>
+      <link rel="apple-touch-icon" href="https://static.anmedm.com/images/icons/favicon_new.ico"/>
+      <link rel="icon" type="image/x-icon" href="https://static.anmedm.com/images/icons/favicon_new.ico"/>
+            <link rel="preload" href="https://static.anmedm.com/themes/v3/css/style.min.css?v=1.2.4" as="style">
+      <link rel="stylesheet" href="https://static.anmedm.com/themes/v3/css/style.min.css?v=1.2.4">
+                  <script>
+        var rootDomain = 'https://kissanime.co';
+        var styleDomain = 'https://static.anmedm.com';
+        var thisUrl = 'https://kissanime.co/Anime/Trapped-in-a-Dating-Sim-The-World-of-Otome-Games-Is-Tough-for-Mobs/';
+        var movie_id = '11235';
+        var episode_id = '';
+        var mature_alert = false;
+        var current_link = '';
+        var referrals = '';
+      </script>
+            <link href="https://www.google-analytics.com" rel="preconnect" crossorigin="anonymous">
+      <link href="https://www.googletagmanager.com" rel="preconnect" crossorigin="anonymous">
+      <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-TVJSC59');</script>
+      <!-- End Google Tag Manager -->
+      <script>
+        dataLayer.push({'event': 'logged_in'});
+      </script>
+            <link rel="manifest" href="https://static.anmedm.com/manifest.json" />
+      <meta property="fb:app_id" content="110439309622036" />
+      <style>
+        .search_suggest_img {
+          width: 40px;
+          height: 50px;
+          float: left;
+          margin-right: 10px;
+        }
+        #result_box a.item_search_link {
+          margin-bottom: 5px;
+        }
+         #formSearch input {
+            width: 250px;
+         }
+         #formSearch label {
+            position: relative;
+            text-indent: -9999999999px;
+            width: 0;
+            height: 0;
+            overflow: hidden;
+            float: left;
+         }
+         #result_box {
+            display: none;max-height: 300px; overflow-y: auto; overflow-x: hidden;
+         }
+         .like_head > div {
+            float: left; width: 90px;
+         }
+         .like_head > a {
+            float:right;
+         }
+         .like_head > a img {
+            vertical-align: middle
+         }
+         .topHolderBox_hi {
+            color: #888;
+         }
+         .topHolderBox_drop {
+            color: #8D65A0;
+         }
+         .topHolderBox_usersmall_notloged {
+            vertical-align: middle; margin-bottom: 5px;
+         }
+         .right_head #search {
+            position: relative;
+         }
+         .item_movies_in_cat_thumb .thumb_in_cat img {
+            display: none;
+         }
+         .item_movies_in_cat_thumb .thumb_in_cat {
+            float: left;
+            width: 50px;
+            height: 65px;
+            background-position: center center;
+            background-size: cover;
+            padding: 0;
+            margin: 5px;
+            border-radius: 3px;
+            overflow: hidden;
+         }
+         .item_movies_in_cat_thumb .title_in_cat_container {
+            float: left;
+            width: calc(100% - 60px);
+         }
+         .item_movies_in_cat_thumb .listing > div > div {
+            float: left;
+         }
+         .item_movies_in_cat_thumb .listing > div > div:last-child {
+            float: right;
+         }
+         .item_movies_in_cat_thumb .item_movies_link  {
+            display: table-cell;
+            height: 75px;
+            padding: 0 60px 0 10px;
+            vertical-align: middle;
+            width: 100%;
+            float: none;
+         }
+         .item_movies_in_cat_thumb .status_in_cat_container a {
+            padding: 0;
+         }
+         .item_movies_in_cat_thumb .status_text_vertical {
+            height: 75px;
+            vertical-align: middle;
+            display: table-cell;
+         }
+         .item_movies_in_cat_thumb .img_in_movies_link_inner {
+            height: 75px;
+            vertical-align: middle;
+            display: table-cell;
+         }
+         @media screen and (max-width: 768px) {
+          .listing > div {
+            border-radius: 3px;
+          }
+          .item_movies_in_cat_thumb .img_in_movies_link_inner {
+            height: auto;
+          }
+          .item_movies_link:before {
+            display: none;
+          }
+          .item_movies_in_cat_thumb .item_movies_link {
+            height: auto;
+            display: block;
+            padding: 5px 0 5px 10px;
+          }
+          .item_movies_in_cat_thumb .status_text_vertical {
+            height: auto;
+          }
+          .item_movies_in_cat_thumb .status_in_cat_container {
+            padding: 0 5px !important;
+            margin: 5px 0;
+            box-sizing: border-box;
+          }
+          .item_movies_in_cat_thumb .status_in_cat_container a {
+            display: block;
+            padding: 5px 6px;
+            background: #000;
+            border-radius: 3px;
+          }
+         }
+      </style>
+      <script src="https://cdn.onepush.app/js/push/2.3/atp.js?v=2.3.8"></script>
+      <script>
+        AdTruePushSDK.init({
+                    appId: 'AT-SZC09',
+                    https: true
+        });
+      </script>
+       <link rel="preload" as="script" href="https://live.demand.supply/up.js"><script async data-cfasync="false" type="text/javascript" src="https://live.demand.supply/up.js"></script>
+         </head>
+   <body>
+      <div id="fb-root"></div>
+      <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v8.0&appId=110439309622036&autoLogAppEvents=1" nonce="BIchl1jo"></script>
+      <div id="containerRoot">
+      <div id="head">
+         <div class="right_head">
+            <div class="right_head_inner">
+                               <div id="topHolderBox">
+                  <img class="topHolderBox_usersmall_notloged" src="/images/user-small.png" alt="user">
+                  Please <a class="btn_login" rel="nofollow" href="https://kissanime.co/Login?redirect_to=/Anime/Trapped-in-a-Dating-Sim-The-World-of-Otome-Games-Is-Tough-for-Mobs/"><i class="fa fa-sign-in" aria-hidden="true"></i> login</a>
+                  or <a class="btn_register" rel="nofollow" href="https://kissanime.co/Register?redirect_to=/Anime/Trapped-in-a-Dating-Sim-The-World-of-Otome-Games-Is-Tough-for-Mobs/"><i class="fa fa-user-plus" aria-hidden="true"></i> register</a>
+               </div>
+                           </div>
+            <div id="search">
+               <form id="formSearch" method="post" action="https://kissanime.co/Seach/">
+                  <p>
+                    <input type="text" autocomplete="off" id="keyword" name="s" value="" class="text"/>
+                    <label for="keyword">keyword</label>
+                    <button type="submit" class="btn" id="imgSearch" onclick="return false;">SEARCH</button>
+                  </p>
+                  <div id="result_box"></div>
+                  <div class="like_head full">
+                     <div>
+                        <div class="fb-like" data-href="https://kissanime.co" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+                     </div>
+                     <a href="/AdvanceSearch"><img src="/themes/v3/images/read.png" alt="search image" width="16px" border="0">&nbsp;&nbsp;Advanced Search</a>
+                  </div>
+               </form>
+            </div>
+         </div>
+         <div class="left_head">
+            <a href="https://kissanime.co/kissanime.html" title="KissAnime - High quality anime online" class="logo">KissAnime</a>
+         </div>
+      </div>
+      <div class="clear"></div>
+      <div id="headnav">
+         <div id="navbar">
+            <div id="navcontainer">
+               <ul>
+                  <li id="liHome"><a rel="nofollow"  href="https://kissanime.co/kissanime-home.html">Home</a></li>
+                  <li id="liDS"><a id="currentTab" href="https://kissanime.co/AnimeListOnline">Anime list</a></li>
+                  <li id="liTrending"><a  href="https://kissanime.co/AnimeListOnline/Trending">Trending</a></li>
+                  <li id="liSchedule"><a  href="https://kissanime.co/Schedule">Schedule</a></li>
+                                    <li id="liReportError"><a rel="nofollow" href="/ReportError">Report/Request</a></li>
+                  <li id="liApp"></li>
+                  <li><a target='_blank' rel="noopener" href="https://kisscartoon.sh">KissCartoon</a></li>
+                  <li><a target='_blank' rel="noopener" href="https://kissasian.ac">KissAsian</a></li>
+                                 </ul>
+               <style>
+                  .jtitle_block {
+                     float: right;
+                  }
+                  .quicktoggler .switch {
+                      position: relative;
+                      display: inline-block;
+                      width: 25px;
+                      height: 12px;
+                      margin: 0 5px;
+                      vertical-align: -2px;
+                  }
+                  .quicktoggler .slider.round {
+                      border-radius: 34px;
+                  }
+                  .quicktoggler .slider {
+                      position: absolute;
+                      cursor: pointer;
+                      top: 0;
+                      left: 0;
+                      right: 0;
+                      bottom: 0;
+                      background-color: #ccc;
+                      -webkit-transition: .4s;
+                      transition: .4s;
+                      background: #ccc;
+                  }
+                  .quicktoggler .slider:before {
+                      position: absolute;
+                      content: "";
+                      height: 10px;
+                      width: 10px;
+                      left: 1px;
+                      bottom: 1px;
+                      background-color: #fff;
+                      -webkit-transition: .4s;
+                      transition: .4s;
+                  }
+                  .quicktoggler .slider.round:before {
+                      border-radius: 50%;
+                      background: #b720ff;
+                  }
+                  .quicktoggler .text {
+                      color: #eee;
+                      text-transform: uppercase;
+                      font-size: .7rem;
+                      padding: 5px 0;
+                  }
+                  .quicktoggler .slider.active {
+                      background-color: #000;
+                  }
+                  .quicktoggler .slider.active:before {
+                      -webkit-transform: translateX(13px);
+                      -ms-transform: translateX(13px);
+                      transform: translateX(13px);
+                  }
+                  @media screen and (max-width: 768px){
+                     .jtitle_block {
+                        float: left;
+                        margin-bottom: 3px;
+                        padding: 7px;
+                        background-color: #222222;
+                        width: 100%;
+                     }
+                     .bigChar {
+                        letter-spacing: 0;
+                     }
+                  }
+               </style>
+               <div class="jtitle_block quicktoggler tip" title="" title="Display anime names in English or Japanese"> <label class="switch"><span class="slider round"></span></label> <span class="text">EN/JP Name</span> </div>
+            </div>
+         </div>
+                     <div id="navsubbar">
+                              <p> 
+                                                      <a class="" href="https://kissanime.co/AnimeListOnline">Sort by alphabet</a>
+                  <a href="https://kissanime.co/AnimeListOnline/MostPopular">Sort by popularity</a>
+                  <a href="https://kissanime.co/AnimeListOnline/LatestUpdate">Latest update</a>
+                  <a href="https://kissanime.co/UpcomingAnime">Upcoming anime</a>
+                  <a href="https://kissanime.co/AnimeListOnline/Newest">New anime</a>
+                                                   </p>
+                           </div>
+               </div>
+      <div class="clear"></div><style>
+    .hidden {
+        display: none !important;
+        visibility: hidden !!important;
+    }
+    .listing a.watched {
+        color: #d681ff;
+    }
+</style>
+<div id="container" class="movie_page">
+        <div itemprop="itemReviewed" itemscope itemtype="https://schema.org/TVSeries ">
+        <span class="hidden" itemprop="name">Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs</span>
+        <span class="hidden" itemprop="description"><p>Office worker Leon is reincarnated into a particularly punishing dating sim video game, where women reign supreme and only beautiful men have a seat at the table. But Leon has a secret weapon: he remembers everything from his past life, which includes a complete playthrough of the very game in which he is now trapped. Watch Leon spark a revolution to change this new world in order to fulfill his ultimate desire... of living a quiet, easy life in the countryside!</p>
+<div></div></span>
+        <img class="hidden" itemprop="thumbnailUrl" src="https://static.anmedm.com/media/imagesv2/2022/03/Trapped-in-a-Dating-Sim-The-World-of-Otome-Games-Is-Tough-for-Mobs.jpg">
+        <img class="hidden" itemprop="image" src="https://static.anmedm.com/media/imagesv2/2022/03/Trapped-in-a-Dating-Sim-The-World-of-Otome-Games-Is-Tough-for-Mobs.jpg">
+        <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+            <meta itemprop="ratingValue" content="9.6" />
+            <meta itemprop="ratingCount" content="584" />
+            <meta itemprop="bestRating" content="10" />
+            <meta itemprop="worstRating" content="1" />
+        </div>
+    </div>
+    <div id="leftside">
+        <div class="bigBarContainer full">
+                        <div class="barTitle full"><h1><strong>Watch <span class="jtitle" data-jtitle="Otomege Sekai wa Mob ni Kibishii Sekai desu">Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs</span> online free on kissanime</strong></h1></div>
+            <div class="barContent full">
+                <div class="arrow-general"></div>
+                <div class="full">
+                    <h2><strong class="bigChar jtitle" data-jtitle="Otomege Sekai wa Mob ni Kibishii Sekai desu">Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs</strong></h2>
+                                            <p class="info">
+                            <span>Other name:</span>
+                            <a href="https://kissanime.co/Anime/Trapped-in-a-Dating-Sim-The-World-of-Otome-Games-Is-Tough-for-Mobs/" class="dotUnder" title="Otome Game Sekai wa Mob ni Kibishii Sekai desu">Otome Game Sekai Wa Mob Ni Kibishii Sekai Desu</a><span class="info">,</span> <a href="https://kissanime.co/Anime/Trapped-in-a-Dating-Sim-The-World-of-Otome-Games-Is-Tough-for-Mobs/" class="dotUnder" title="Mobseka">Mobseka</a><span class="info">,</span> <a href="https://kissanime.co/Anime/Trapped-in-a-Dating-Sim-The-World-of-Otome-Games-Is-Tough-for-Mobs/" class="dotUnder" title="乙女ゲー世界はモブに厳しい世界です">乙女ゲー世界はモブに厳しい世界です</a>                        </p>
+                                                                <p class="info">
+                            <span>Genres:</span>
+                            <a href="/Genre/Fantasy" class="dotUnder" title="Fantasy">Fantasy</a><span class="info">,</span> <a href="/Genre/Romance" class="dotUnder" title="Romance">Romance</a>                        </p>
+                                                                <p>
+                            <span class="info">Date aired:</span> Apr 3, 2022 to ?                        </p>
+                                        <div class="static_single">
+                        <p class="item_static"><span class="info">Status:</span> Ongoing</p>
+                        <p class="item_static"><span class="info">Views:</span> 35,319</p>
+                                                    <p class="item_static">
+                                <span id="spanBookmark">
+                                    <img src="https://static.anmedm.com/themes/v3/images/plus.png" style="vertical-align: middle; margin-bottom: 5px">
+                                    <a id="btnRegOrLogin" onclick="return false;" href="#">Bookmark</a> 
+                                </span>
+                            </p>
+                                            </div>
+                    <div class="clear"></div>
+                    <div class="clear"></div>
+                    <p><span class="info">Summary:</span></p>
+                    <div class="summary">
+                        <p>Office worker Leon is reincarnated into a particularly punishing dating sim video game, where women reign supreme and only beautiful men have a seat at the table. But Leon has a secret weapon: he remembers everything from his past life, which includes a complete playthrough of the very game in which he is now trapped. Watch Leon spark a revolution to change this new world in order to fulfill his ultimate desire... of living a quiet, easy life in the countryside!
+</p>
+                    </div>
+                    <p><span class="info">Hot on KissAnime:</span></p>
+                    <div class="summary">
+                        <a href="https://kissanime.co/Anime/Trapped-in-a-Dating-Sim-The-World-of-Otome-Games-Is-Tough-for-Mobs/"><strong>kissanime trapped in a dating sim: the world of otome games is tough for mobs</strong></a>, 
+                        <a href="https://kissanime.co/Anime/Trapped-in-a-Dating-Sim-The-World-of-Otome-Games-Is-Tough-for-Mobs/"><strong>watch trapped in a dating sim: the world of otome games is tough for mobs</strong></a>, 
+                        <a href="https://kissanime.co/Anime/Trapped-in-a-Dating-Sim-The-World-of-Otome-Games-Is-Tough-for-Mobs/"><strong>trapped in a dating sim: the world of otome games is tough for mobs kissanime</strong></a>
+                    </div>
+                </div>
+            </div>
+        </div> 
+        <div class="full">
+            <center>
+                <script src="//ad.kissanime.co/iov2/script.php?id=BANNER_728x90&type=pc&v=623709747" type="text/javascript"></script>
+                <script src="//ad.kissanime.co/iov2/script.php?id=BANNER_300x250_MOBILE&type=mobile&v=477101961" type="text/javascript"></script>
+            </center>
+        </div>
+                <div class="bigBarContainer full">
+            <div class="barTitle full"><h2>All <strong class="jtitle" data-jtitle="Otomege Sekai wa Mob ni Kibishii Sekai desu">Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs</strong> Episodes</h2></div>
+            <div class="barContent episodeList full">
+                <div class="arrow-general"></div>
+                <div class="full">
+                    <div class="full mb15">
+                                                <!--<iframe width="700" height="315" src="https://www.youtube.com/embed/pYNL3ej8WTI" frameborder="0" allowfullscreen=""></iframe>--> 
+                    </div>
+                                                <div class="full mb10" style="text-align: center">
+                                <img src="https://static.anmedm.com/images/clock.png" style="vertical-align: middle; margin-top: -5px" />
+                                <div style="display: inline-block; color: #7e7e7e">Next episode countdown (estimated - may be wrong): <span id="nextEpisodeCountDown" style="font-weight: bold; color: #648f06"></span></div>
+                            </div>
+                                                <div class="listing listing8515 full">
+                                                    <div class="head">
+                                <div>Episode name</div>
+                                <div>Day Added</div>
+                            </div>
+                                                            <div>
+                                    <div>
+                                        <h3>
+                                            <a title="" class="" href="https://kissanime.co/Anime/Trapped-in-a-Dating-Sim-The-World-of-Otome-Games-Is-Tough-for-Mobs/Episode-001?id=176464"><span class="jtitle" data-jtitle="Otomege Sekai wa Mob ni Kibishii Sekai desu">Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs</span> - Episode 001</a>
+                                        </h3>
+                                    </div>
+                                    <div>04/04/2022</div>
+                                </div>
+
+                                                            <div>
+                                    <div>
+                                        <h3>
+                                            <a title="" class="" href="https://kissanime.co/Anime/Trapped-in-a-Dating-Sim-The-World-of-Otome-Games-Is-Tough-for-Mobs/-Trailer?id=176118"><span class="jtitle" data-jtitle="Otomege Sekai wa Mob ni Kibishii Sekai desu">Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs</span> - _Trailer</a>
+                                        </h3>
+                                    </div>
+                                    <div>03/17/2022</div>
+                                </div>
+
+                                                                        </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="bigBarContainer full hidden_xs">
+            <div class="barTitle full"><h2>Popular Animes on KissAnime</h2></div>
+            <div class="barContent full">
+                <div class="arrow-general"></div>
+                <div class="full">
+                    <div class="full related_news">
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/One-Piece.76592/">watch <span class="jtitle" data-jtitle="one piece (sub)">one piece</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Naruto-Shippuuden-Dub.62501/">watch <span class="jtitle" data-jtitle="naruto shippuuden (dub)">naruto: shippuden (dub)</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Naruto-Shippuuden.41646/">watch <span class="jtitle" data-jtitle="naruto shippuuden (sub)">naruto: shippuden</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/One-Piece-Dub.29836/">watch <span class="jtitle" data-jtitle="one piece (dub)">one piece (dub)</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Boruto-Naruto-Next-Generations.18675/">watch <span class="jtitle" data-jtitle="boruto: naruto next generations">boruto: naruto next generations</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Hunter-x-Hunter-2011.25119/">watch <span class="jtitle" data-jtitle="hunter x hunter (2011) (sub)">hunter x hunter (2011)</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Detective-Conan.38595/">watch <span class="jtitle" data-jtitle="meitantei conan (sub)">case closed</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/black-clover-tv.47206/">watch <span class="jtitle" data-jtitle="black clover (tv)">black clover</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Naruto-Dub.12080/">watch <span class="jtitle" data-jtitle="naruto (dub)">naruto (dub)</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/bleach-dub.12271/">watch <span class="jtitle" data-jtitle="bleach (dub)">bleach (dub)</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e/">watch <span class="jtitle" data-jtitle="youkoso jitsuryoku shijou shugi no kyoushitsu e">classroom of the elite</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Dragon-Ball-Super.84084/">watch <span class="jtitle" data-jtitle="dragon ball super (sub)">dragon ball super</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Fairy-Tail-Dub.83603/">watch <span class="jtitle" data-jtitle="fairy tail (dub)">fairy tail (dub)</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Hunter-x-Hunter-2011-Dub.39982/">watch <span class="jtitle" data-jtitle="hunter x hunter (2011) (dub)">hunter x hunter (2011) (dub)</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/black-clover-tv-dub.41348/">watch <span class="jtitle" data-jtitle="black clover (tv) (dub)">black clover (dub)</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Boku-no-Hero-Academia-My-Hero-Academia.35030/">watch <span class="jtitle" data-jtitle="boku no hero academia (sub)">my hero academia</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/dragon-ball-z-dub.16241/">watch <span class="jtitle" data-jtitle="dragon ball z (dub)">dragon ball z (dub)</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Bleach.73746/">watch <span class="jtitle" data-jtitle="bleach (sub)">bleach</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Naruto.58784/">watch <span class="jtitle" data-jtitle="naruto (sub)">naruto</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Dragon-Ball-Super-Dub.65375/">watch <span class="jtitle" data-jtitle="dragon ball super (dub)">dragon ball super (dub)</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Fairy-Tail.15362/">watch <span class="jtitle" data-jtitle="fairy tail (sub)">fairy tail</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/One-Punch-Man.35135/">watch <span class="jtitle" data-jtitle="one punch man (sub)">one-punch man</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Fairy-Tail-2014.35558/">watch <span class="jtitle" data-jtitle="fairy tail (2014) (sub)">fairy tail (2014)</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Re-Zero-kara-Hajimeru-Isekai-Seikatsu.84164/">watch <span class="jtitle" data-jtitle="re:zero kara hajimeru isekai seikatsu">re:zero -starting life in another world-</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/gintama.53368/">watch <span class="jtitle" data-jtitle="gintama">gintama</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/fairy-tail-2014-dub.79586/">watch <span class="jtitle" data-jtitle="fairy tail (2014) (dub)">fairy tail (2014) (dub)</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/dragon-ball-dub.80887/">watch <span class="jtitle" data-jtitle="dragon ball (dub)">dragon ball (dub)</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/kimetsu-no-yaiba-sub.36357/">watch <span class="jtitle" data-jtitle="kimetsu no yaiba (sub)">demon slayer: kimetsu no yaiba</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Shingeki-no-Kyojin.76494/">watch <span class="jtitle" data-jtitle="shingeki no kyojin (sub)">attack on titan</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/boruto-naruto-next-generations-dub.39329/">watch <span class="jtitle" data-jtitle="boruto: naruto next generations (dub)">boruto: naruto next generations (dub)</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/mahouka-koukou-no-rettousei.97387/">watch <span class="jtitle" data-jtitle="mahouka koukou no rettousei">the irregular at magic high school</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/boku-no-hero-academia-3rd-season-dub.99708/">watch <span class="jtitle" data-jtitle="boku no hero academia 3rd season (dub)">my hero academia season 3 (dub)</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Sword-Art-Online-II.14270/">watch <span class="jtitle" data-jtitle="sword art online ii (sub)">sword art online ii</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Shingeki-no-Kyojin-3rd-Season-Sub.86661/">watch <span class="jtitle" data-jtitle="shingeki no kyojin 3rd season (sub)">attack on titan season 3</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Haikyuu.83970/">watch <span class="jtitle" data-jtitle="haikyuu!!">haikyu!!</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/boku-no-hero-academia-2nd-season-dub.92744/">watch <span class="jtitle" data-jtitle="boku no hero academia 2nd season (dub)">my hero academia season 2 (dub)</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Jujutsu-Kaisen-TV.15110/">watch <span class="jtitle" data-jtitle="jujutsu kaisen (tv)">sorcery fight</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Katekyo-Hitman-Reborn/">watch <span class="jtitle" data-jtitle="katekyo hitman reborn!">reborn!</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/haikyuu-second-season.38097/">watch <span class="jtitle" data-jtitle="haikyuu!! second season">haikyu!! 2nd season</span></a></h3>
+                                                    <h3 class="most_viewed_item"><a href="https://kissanime.co/Anime/Akame-ga-Kill.43922/">watch <span class="jtitle" data-jtitle="akame ga kill! (sub)">akame ga kill!</span></a></h3>
+                                            </div>
+                </div>
+            </div>
+                    </div>
+                <div class="full" style="text-align:center;">
+            <div style="display: inline-block; margin: 10px;margin-top: 15px;">
+                <script src="//ad.kissanime.co/iov2/script.php?id=BANNER_300x250&type=pc&v=855509376" type="text/javascript"></script>
+            </div>
+            <div style="display: inline-block; margin: 10px;margin-top: 15px;">
+                <script src="//ad.kissanime.co/iov2/script.php?id=BANNER_300x250_2&type=pc&v=80679398" type="text/javascript"></script>
+            </div>
+            <center>
+                 <script src="//ad.kissanime.co/iov2/script.php?id=BANNER_300x250_2_MOBILE&type=mobile&v=1584596" type="text/javascript"></script>
+            </center>
+        </div>
+        <div class="bigBarContainer full">
+            <div class="barTitle"><h2>Comments about <strong class="jtitle" data-jtitle="Otomege Sekai wa Mob ni Kibishii Sekai desu">Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs</strong></h2></div>
+            <div class="barContent episodeList full">
+                <div class="arrow-general"></div>
+                <div class="full"> 
+                    <div style="text-align: center; padding-top: 10px">
+                        <a href="#" class="specialButton" style="display: none;" onclick="return false;" id="btnShowComments">Show
+                            Comments Box</a>
+                    </div>
+                    <div style="color: #d5f406">
+                        - Don't link to other manga/<a href="https://kissanime.co">anime website</a>/any kind of ads.
+                        <br> - Don't spoil content of next episodes. <br>
+                        => <a href="https://kissanime.co"><strong>watch anime online</strong></a> and <a href="https://kissanime.co"><strong>anime online</strong></a> at <a href="https://kissanime.co" title=""><strong>kissanime</strong></a>
+                    </div>
+                    <div class="clear2"></div>
+                    <ul class="tab-head">
+                      <li><a href="#facebook_comments"><i class="fa fa-facebook" aria-hidden="true"></i> Facebook</a></li>
+                      <li><a class="active" href="#disqus_comments"><i class="fa fa-comments" aria-hidden="true"></i> Disqus</a></li>
+                    </ul>
+                    <div class="tab_container">
+                        <div id="facebook_comments" class="tab_content" style="background-color: #FFFFFF; display: none;">
+                            <div class="fb-comments" data-colorscheme="dark" data-href="https://kissanime.bi/Anime/Trapped-in-a-Dating-Sim-The-World-of-Otome-Games-Is-Tough-for-Mobs/" style="width:100%;" data-width="100%" data-numposts="20"></div>
+                        </div>
+                        <div id="disqus_comments" class="tab_content">
+                            <div id="disqus_thread"></div>
+                            <script>
+                                var disqus_config = function () {
+                                    this.page.url = "https://kissanime.co/Anime/Trapped-in-a-Dating-Sim-The-World-of-Otome-Games-Is-Tough-for-Mobs/"; 
+                                    this.page.identifier = "https://kissanime.co/Anime/Trapped-in-a-Dating-Sim-The-World-of-Otome-Games-Is-Tough-for-Mobs/";
+                                };
+                            </script>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="rightside">
+        <div class="rightBox full">
+            <div class="barTitle full">Cover</div>
+            <div class="barContent cover_anime full">
+                <div class="arrow-general"></div>
+                <div class="a_center">
+                    <img src="https://static.anmedm.com/media/imagesv2/2022/03/Trapped-in-a-Dating-Sim-The-World-of-Otome-Games-Is-Tough-for-Mobs.jpg" alt="Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs">
+                </div>
+                <div class="full vote_block">
+                    <div class="Votes">
+                                                <div class="Prct">
+                            <div id="A-circle" data-percent="96"></div>
+                        </div>
+                        <div class="Strs RateIt" data-type="anime" data-id="11235">
+                            <a href="#" class="fa-star-o Hf" data-value="5" title="5 Stars"></a>
+                            <a href="#" class="fa-star-o On" data-value="4" title="4 Stars"></a>
+                            <a href="#" class="fa-star-o On" data-value="3" title="3 Stars"></a>
+                            <a href="#" class="fa-star-o On" data-value="2" title="2 Stars"></a>
+                            <a href="#" class="fa-star-o On" data-value="1" title="1 Star"></a>
+                        </div>
+                        <span class="Nmbr"><span id="votes_nmbr">584</span> VOTES</span>
+                                            </div>
+                </div>  
+            </div>
+        </div>
+        <div class="rightBox full">
+            <div class="barTitle">KissAnime Discord</div>
+            <div class="barContent">
+                <div class="arrow-general"></div>
+                <div>
+                    <center>
+                        <a title="KissAnime Discord" rel="nofollow" href="" class="discord_url" target="_blank"><img src="https://img.moviescdn.xyz/images/discord-icon-white.png" alt="kissanime discord"></a>
+                    </center>
+                </div>
+            </div>
+        </div>
+                        <center><script src="//ad.kissanime.co/iov2/script.php?id=BANNER_160x600&type=pc&v=1054824864" type="text/javascript"></script></center>
+    </div>
+
+</div><div style="clear: both"></div>
+<div id="footer">
+    <div id="footcontainer" style="position: relative">
+        <p style="font-size:12px;">
+            From 2012 - 2022 <a href="https://kissanime.co"><strong>KissAnime</strong></a> (<a href="https://kissanime.co">キスアニメ</a>). Copyrights and trademarks for the anime, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law. 
+        </p>
+        <p style="font-size:11px;">
+            <a target="_blank" href="https://kissanime.co/sitemap.html">Sitemap</a>&nbsp;|&nbsp;
+            <a rel="nofollow" href="https://kissanime.co/privacy-policy">Privacy Policy</a>&nbsp;|&nbsp;
+            <a rel="nofollow" href="https://kissanime.co/dmca">DMCA</a>&nbsp;|&nbsp;
+            <a href="https://kissanime.co">gogoanime</a>&nbsp;|&nbsp;
+            <a href="https://kissanime.co">anime online</a>
+            &nbsp;|&nbsp;<a href="https://kissanime.co">kiss anime</a>
+            &nbsp;|&nbsp;<a href="https://kissanime.co">watch anime</a>
+            &nbsp;|&nbsp;<a href="https://kissanime.co">watch anime online</a>
+                    </p>
+    </div>
+</div>
+</div>
+<link rel="preload" href="https://static.anmedm.com/themes/v3/js/main.min.js?v=1.1.6" as="script">
+<script type="text/javascript" src="https://static.anmedm.com/themes/v3/js/main.min.js?v=1.1.9"></script>
+<script>
+    jQuery(document).ready(function($) {
+        $('.discord_url').attr('href', 'https://discord.gg/w5ghWQG8uM');
+        if($.cookie("jpname") && $.cookie("jpname")!== "undefined" && $.cookie("jpname")!== "0"){
+            $('.quicktoggler .slider').addClass('active');
+            $('.jtitle').each(function(index, el) {
+                var etitle = $(this).html();
+                $(this).html($(this).data('jtitle'));  
+                $(this).data('jtitle', etitle);   
+            });
+        }
+        $('.quicktoggler .slider').click(function() {
+            if($(this).hasClass('active')) {
+                $(this).removeClass('active');
+                $.cookie("jpname", 0 , {expires:1, path:"/"});
+            } else {
+                $(this).addClass('active');
+                $.cookie("jpname", 1 , {expires:1, path:"/"});
+            }
+            $('.jtitle').each(function(index, el) {
+                var etitle = $(this).html();
+                $(this).html($(this).data('jtitle'));  
+                $(this).data('jtitle', etitle);     
+            });
+        });
+    });
+</script>
+    <!--
+    <div id="slider_a">
+        <div id="adtrue_vpage_tag_9417"></div>
+        <script data-cfasync='false' type='text/javascript' src='//cdn.adtrue.com/v/async_v2.js' async></script>
+        <script type="text/javascript">
+            var adtrue_vpage_tags = window.adtrue_vpage_tags || [];
+            adtrue_vpage_tags.push({
+                tag_id: 9417,
+                width: 480,
+                height: 320,
+                slider: true
+            });
+        </script>
+    </div>
+    <script>
+        jQuery(document).ready(function ($) {
+            if (isMobile) {
+                $('#slider_a').remove();
+            }
+        });
+    </script>
+    -->
+<link rel="preload" href="https://static.anmedm.com/js/jquery.countdown.min.js" as="script">
+<script type="text/javascript" src="https://static.anmedm.com/js/jquery.countdown.min.js"></script>
+<script type="text/javascript">
+    $("#nextEpisodeCountDown").countdown(new Date(new Date().getTime() + 568608000), function (event) {
+        var formatCountDown = "%Hh:%Mm";
+        if (event.offset.totalDays > 0)
+            formatCountDown = '%D day%!d ' + formatCountDown;
+        var textCountDown = event.strftime(formatCountDown);
+        if (event.offset.totalDays == 0 && event.offset.hours == 0)
+            textCountDown = "Less than 1 hour";
+        $(this).text(textCountDown);
+    });
+</script>
+<link rel="preload" href="https://static.anmedm.com/js/percircle.min.js" as="script">
+<script type="text/javascript" src="https://static.anmedm.com/js/percircle.min.js"></script>
+<link rel="preload" href="https://static.anmedm.com/themes/v3/js/kissanime.min.js?v=1.3.1" as="script">
+<script type="text/javascript" src="https://static.anmedm.com/themes/v3/js/kissanime.min.js?v=1.3.1"></script>
+<!-- BEGIN BEBI SKIN JS TAG -->
+<script type="text/javascript" data-cfasync="false">
+    if(!window.BB_ind) { BB_ind = 0; }
+    if(!window.BB_r) { BB_r = Math.floor(Math.random()*1000000000)}
+    BB_ind++;
+
+    window.BB_skin = {
+        centerWidth: 970,
+        centerDomId: '',
+        leftOffset: 0,
+        rightOffset: 0,
+        topPos: 145,
+        deferLoading: false,
+        fixed: true,
+        fixedStickTopOnScroll: false,
+        fixedScrollSecondaryTop: 0,
+        adjustSkinOnDynamicCenter: true,
+        zIndex: 0,
+        leftFrameId: '',
+        rightFrameId: '',
+
+        pl: 2015346,
+        index: BB_ind
+    };
+
+</script>
+<script type="text/javascript" data-cfasync="false" async src="//st.bebi.com/bebi_v3.js"></script>
+<!-- END TAG -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TVJSC59"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+</body>
+</html>

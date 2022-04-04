@@ -1,0 +1,99 @@
+import webbrowser
+import os
+import requests
+import bs4
+import datetime
+
+Now = datetime.datetime.now()
+
+#url='https://www.zoro.to/home'
+#url='https://kissanime.com.ru/Login?redirect_to=/'
+#url='http://facebook.com'
+f1=open('AnimeUrlList.txt','r')
+f2=open('AnimeUpdateOld.txt','r+')
+f3=open('AnimeUpdateNew.txt','r+')
+f5=open('C:\\Users\\tirth\\OneDrive\\Desktop\\AnimeLog.txt','a+')
+f6=open('Timer.txt','r+')
+f7=open('r_Timer.txt','r+')
+k=0
+point=0
+status='0'
+Link=f1.readlines()
+#print(Link)
+EpisodeList=f2.readlines()
+limit=len(EpisodeList)
+#print(EpisodeList)
+f2.truncate(0)
+f2.seek(0)
+garbage=f3.read()
+f2.write(garbage)
+f3.seek(0)
+f3.truncate(0)
+time_read=f6.readlines()
+f6.truncate()
+f6.seek(0)
+dump=f7.read()
+f6.write(dump)
+f7.truncate()
+f7.seek(0)
+
+for url in Link:
+    time_read[point]=time_read[point].replace('\n','')
+    last_release_time=datetime.datetime.strptime(time_read[point], '%Y-%m-%d %H:%M:%S')
+    future_release_time=last_release_time+datetime.timedelta(days=7)
+    present_time=datetime.datetime.now()
+    time_left=future_release_time-present_time
+    time_left_str=str(time_left)
+    if time_left_str[0]=='-':
+        f7.write(str(future_release_time))
+    else:
+        f7.write(str(last_release_time))
+    count=0
+    #print(url)
+    Murl=url.replace('\n','')
+    res=requests.get(Murl)
+    res.raise_for_status()
+    f4=open('HTML.txt','wb')
+    for i in res.iter_content(1000000):
+        f4.write(i)
+
+    soup=bs4.BeautifulSoup(res.content,'html.parser')
+    elem=soup.find_all('span', class_='jtitle')
+    #print(elem)
+    title=elem[0].get('data-jtitle')
+    for jp in elem:
+        name_=jp.get('data-jtitle')
+        #print(name_)
+        if title==name_:
+            count+=1
+
+    count-=1
+    point+=1
+    #print(title)
+    #print(len(elem))
+    #print(elem[len(elem)-1])
+    if k<limit:
+        EpisodeList[k]=EpisodeList[k].replace('\n','')
+        ep=EpisodeList[k]
+        k=k+1
+    else:
+        ep=0
+    #print(ep)
+    ep=int(ep)
+    if(ep==count):
+       print(title+': ',count,'No Update')
+       status='No Update'
+    else:
+       print(title+': ',count,'Latest')
+       status='New Release'
+
+    value=str(count)
+    f3.write(value)
+    f3.write('\n')
+    f5.write(title+': ')
+    f5.write(value)
+    f5.write(' '+status+'\n')
+
+input()
+
+
