@@ -2,7 +2,7 @@ import webbrowser
 import os
 import requests
 import bs4
-
+########################################    ONLY ANIMEFOX.SBS LINKS SUPPORTED   ############################################
 #url='https://www.zoro.to/home'
 #url='https://kissanime.com.ru/Login?redirect_to=/'
 #url='http://facebook.com'
@@ -13,7 +13,7 @@ f5=open('C:\\Users\\tirth\\OneDrive\\Desktop\\Anime.txt','a+')
 k=0
 status='0'
 Link=f1.readlines()
-print(Link)
+#print(Link)
 EpisodeList=f2.readlines()
 limit=len(EpisodeList)
 #print(EpisodeList)
@@ -63,8 +63,3 @@ for url in Link:
     f5.write(title+': ')
     f5.write(value)
     f5.write(' '+status+'\n')
-
-
-
-
-
