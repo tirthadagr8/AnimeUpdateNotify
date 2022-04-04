@@ -97,7 +97,7 @@ for url in Link:
     #print(ep)
     ep=int(ep)
     spaces=60-len(title)
-    print(spaces)
+    #print(spaces)
     if(ep==count):
        print(title+':',' '*spaces,'No Update:       ',count, '      ',time_left)#,printSpace(spaces),'No Update  ',count,'      ',time_left)
        status='No Update'
