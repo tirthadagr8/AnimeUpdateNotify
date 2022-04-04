@@ -5,7 +5,7 @@ import bs4
 import datetime
 
 Now = datetime.datetime.now()
-################################################  ONLY KISSAIME>CO LINKS SUPPORTED  ######################################################
+################################################  ONLY KISSAIME.CO LINKS SUPPORTED  ######################################################
 #url='https://www.zoro.to/home'
 #url='https://kissanime.com.ru/Login?redirect_to=/'
 #url='http://facebook.com'
