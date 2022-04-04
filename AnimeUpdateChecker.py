@@ -2,7 +2,7 @@ import webbrowser
 import os
 import requests
 import bs4
-
+###################################################  ONLY ANIMEHEAVEN.PRO LINKS SUPPORTED  #####################################################
 #url='https://www.zoro.to/home'
 #url='https://kissanime.com.ru/Login?redirect_to=/'
 #url='http://facebook.com'
