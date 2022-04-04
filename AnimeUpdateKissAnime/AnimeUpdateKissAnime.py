@@ -30,12 +30,16 @@ f2.write(garbage)
 f3.seek(0)
 f3.truncate(0)
 time_read=f6.readlines()
+print(time_read)
 f6.truncate()
 f6.seek(0)
 dump=f7.read()
-f6.write(dump)
+#print('dump=',dump)
+#f6.write(dump)
 f7.truncate()
 f7.seek(0)
+
+#def printSpace(x):
 
 for url in Link:
     time_read[point]=time_read[point].replace('\n','')
@@ -45,9 +49,19 @@ for url in Link:
     time_left=future_release_time-present_time
     time_left_str=str(time_left)
     if time_left_str[0]=='-':
+        print('NEGATIVE')
+        last_release_time=future_release_time
+        f6.write(str(last_release_time))
+        f6.write('\n')
+        future_release_time+=datetime.timedelta(days=7)
+        time_left=future_release_time-present_time
         f7.write(str(future_release_time))
+        f7.write('\n')
     else:
         f7.write(str(last_release_time))
+        f7.write('\n')
+        f6.write(str(last_release_time))
+        f6.write('\n')
     count=0
     #print(url)
     Murl=url.replace('\n','')
@@ -80,11 +94,13 @@ for url in Link:
         ep=0
     #print(ep)
     ep=int(ep)
+    spaces=60-len(title)
+    print(spaces)
     if(ep==count):
-       print(title+': ',count,'No Update')
+       print(title+':',' '*spaces,'No Update:       ',count, '      ',time_left)#,printSpace(spaces),'No Update  ',count,'      ',time_left)
        status='No Update'
     else:
-       print(title+': ',count,'Latest')
+       print(title+':',' '*spaces,'Latest Release:  ',count, '      ',time_left)#   +': No Update   ',count,'      ',time_left)
        status='New Release'
 
     value=str(count)
@@ -94,6 +110,5 @@ for url in Link:
     f5.write(value)
     f5.write(' '+status+'\n')
 
-input()
-
+#input()
 
